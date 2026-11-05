@@ -26,7 +26,7 @@ Newspaper Archive (open, with page images and OCR text). This repo holds an inde
 - The archive has no issues from 1975-12-20 to 1976-03-10, so the first puzzle in it (1976-03-11) is probably
   not Shenk's first; the true start falls somewhere in that gap and can't be pinned down from this archive.
   Puzzles from the missing issues are not included.
-- All 920 issues in the archive for the run are settled by a person: 873 with a puzzle page, 47 without one.
+- All 920 issues in the archive for the run are settled by a person: 874 with a puzzle page, 46 without one (14 of those absent days were looked at a second time).
 - Diagramless puzzles, if any, are not yet separated out: the OCR can't detect them.
 - Next: fetch the puzzle images, collect the answers (printed in the next day's classifieds), then read the
   puzzles into [xd](https://github.com/century-arcade/xd) format.
