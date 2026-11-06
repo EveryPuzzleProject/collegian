@@ -3,6 +3,7 @@
 An index of Mike Shenk's crosswords in The Daily Collegian (Penn State), March 1976 – June 1981:
 for each issue in the Penn State Libraries archive, which page the crossword is on, with a link to it.
 Part of the [Every Puzzle Project](https://github.com/EveryPuzzleProject).
+Status page: <https://everypuzzleproject.org/collegian/>.
 
 Shenk, who later edited the Wall Street Journal crossword, was a Penn State student when the Collegian
 started running his daily puzzle (the first with his byline is 1976-03-12). In June 1981 the paper ran an
@@ -30,6 +31,8 @@ Newspaper Archive (open, with page images and OCR text). This repo holds an inde
 - Diagramless puzzles, if any, are not yet separated out: the OCR can't detect them.
 - Next: fetch the puzzle images, collect the answers (printed in the next day's classifieds), then read the
   puzzles into [xd](https://github.com/century-arcade/xd) format.
+
+`tools/render.py` builds the status page (`site/index.html`) from them; `.github/workflows/pages.yml` deploys it on every push to main.
 
 `puzzles.tsv` and `exceptions.tsv` are generated from the project's working records by
 `tools/collegian/scan.py publish` in [blitz](https://github.com/EveryPuzzleProject/blitz); edit those, not these.
