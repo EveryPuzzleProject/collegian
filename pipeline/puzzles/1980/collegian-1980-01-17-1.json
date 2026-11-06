@@ -1,0 +1,27 @@
+{
+ "id": "collegian-1980-01-17-1",
+ "aliases": [
+  "collegian1980-01-17-L003"
+ ],
+ "xdid": "collegian1980-01-17-L003",
+ "issue": "1980-01-17",
+ "date": "1980-01-17",
+ "grid": {
+  "unit": "scan:collegian-1980-01-17/0003",
+  "extract": "sha256:bbb83b43e1eb7bab9543a0e007b149c1ce519e64809684d0514909e428a81880",
+  "size": "15x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [],
+ "reading": "sha256:7ebc922a15dae444d3b3f85fee1c014688320e52609ad498f42718684dfe1865",
+ "checks": {
+  "solution": [],
+  "asymmetric": 0,
+  "warnings": [
+   "The folder's answers column names a key for this puzzle (collegian-1980-01-18 leaf 3), but no answer grid of the puzzle's size was read there. Check the key crop (the regions and parts views), or the pairing."
+  ]
+ },
+ "xd": "sha256:eca3843fe9e99875d90419003b329824e76895761980f21fd12c7cb750540baf"
+}

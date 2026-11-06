@@ -1,0 +1,29 @@
+{
+ "id": "collegian-1980-12-04-1",
+ "aliases": [
+  "collegian1980-12-04-L001"
+ ],
+ "xdid": "collegian1980-12-04-L001",
+ "issue": "1980-12-04",
+ "date": "1980-12-04",
+ "grid": {
+  "unit": "scan:collegian-1980-12-04/0001",
+  "extract": "sha256:895b10867dafd7d7627bfb6876bf24c4b1ef16aa3786cc6634b2fe4725c93290",
+  "size": "14x8",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [],
+ "reading": "sha256:dae13e2b05f8fa55246c4c56ce04e7494af154a4684d816278725423cdb329c9",
+ "checks": {
+  "solution": [],
+  "asymmetric": 18,
+  "warnings": [
+   "Kept partial: its clues lined up for only 43% of its slots (the usual floor is 75%; the publication keeps grids from 40%). 6 clues not read, marked missing: A8 A9 A11 A12 A26 D25. The grid's reading and the clue layout are suspect.",
+   "The folder's answers column names a key for this puzzle (collegian-1980-12-05 leaf 1), but no answer grid of the puzzle's size was read there. Check the key crop (the regions and parts views), or the pairing.",
+   "Grid isn't symmetric: 18 square pair(s) differ (r1c4/r14c5, r1c5/r14c4, r2c4/r13c5, r2c5/r13c4, r3c5/r12c4, r4c1/r11c8, r4c2/r11c7, r4c6/r11c3). Check those black squares against the scan, or confirm the design is asymmetric."
+  ]
+ },
+ "xd": "sha256:c05a5374e10a7794cd381ec73cf6a910a3ff63df1faf534ab0f825220bb1ad8a"
+}

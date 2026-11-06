@@ -1,0 +1,36 @@
+{
+ "id": "collegian-1977-04-13-1",
+ "aliases": [
+  "collegian1977-04-13-L001"
+ ],
+ "xdid": "collegian1977-04-13-L001",
+ "issue": "1977-04-13",
+ "date": "1977-04-13",
+ "grid": {
+  "unit": "scan:collegian-1977-04-13/0001",
+  "extract": "sha256:64d03e4675e7e942988d3dde326c4ad7bffb05b3d13062e42ebd92e9956cfe38",
+  "size": "17x17",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [],
+ "reading": "sha256:58d85b066c3d38a7235730c7ec2e57621cf6b20dc6a9cb56cff3014fc9ec023d",
+ "key": {
+  "unit": "scan:collegian-1977-04-13/0003",
+  "extract": "sha256:c0d5cd3234269e855f146143847c7297782c709a9260e4b599b0f4c4f9363b1f",
+  "solution_id": "collegian-1977-04-13/3#0",
+  "how": "answers column, grids agree"
+ },
+ "checks": {
+  "solution": [
+   "13 unreadable solution letters",
+   "low-confidence letters at r1c7 r3c7 r3c9 r5c1 r5c2 r5c3 r5c4 r5c5 r8c15 r8c17 r10c1 r10c2 r10c3 r13c13 r13c14 r13c15 r13c16 r13c17 r14c17 r15c4 r15c11 r16c4"
+  ],
+  "asymmetric": 0,
+  "warnings": [
+   "Kept partial: its clues lined up for only 45% of its slots (the usual floor is 75%; the publication keeps grids from 40%). 0 clues not read, marked missing: . The grid's reading and the clue layout are suspect."
+  ]
+ },
+ "xd": "sha256:a8cbaaedaf0c2642e9604502c5d9929e7b5f3fdb53662c504164f009c8c29772"
+}

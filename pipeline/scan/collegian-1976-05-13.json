@@ -1,0 +1,144 @@
+{
+ "scan:collegian-1976-05-13/0001": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:f7c605569ade9015890ce73b050150f6120c896eba8e4c5408e0b6bb5b1f4c23",
+    "layout": "sha256:a3b3eb33638c8434d21b2ff75dc888b03499be32cf61d4f662806d1376f6c78f",
+    "ocr": "sha256:da9cff85a5b0bea0e04f7341082a8598e92f256289626f1a14feef23bcac3e78"
+   },
+   "made": "2026-11-06T20:37:49+00:00",
+   "output": "sha256:73342bbbc64230aa6082cd32ff5e7391c0b8a7ff527dfea580aadad840ed3873",
+   "settings": {
+    "keep_partial": 0.4,
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/15"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-11-06T20:37:31+00:00",
+   "output": "sha256:f7c605569ade9015890ce73b050150f6120c896eba8e4c5408e0b6bb5b1f4c23",
+   "settings": {
+    "source": "scan"
+   },
+   "stage": "image",
+   "version": "image/1"
+  },
+  "layout": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:f7c605569ade9015890ce73b050150f6120c896eba8e4c5408e0b6bb5b1f4c23"
+   },
+   "made": "2026-11-06T20:37:31+00:00",
+   "output": "sha256:a3b3eb33638c8434d21b2ff75dc888b03499be32cf61d4f662806d1376f6c78f",
+   "settings": {
+    "max_grids": 12
+   },
+   "stage": "layout",
+   "version": "layout/10"
+  },
+  "ocr": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:f7c605569ade9015890ce73b050150f6120c896eba8e4c5408e0b6bb5b1f4c23"
+   },
+   "made": "2026-11-06T20:37:39+00:00",
+   "output": "sha256:da9cff85a5b0bea0e04f7341082a8598e92f256289626f1a14feef23bcac3e78",
+   "settings": {
+    "engine": "rapidocr",
+    "upscale_below": 2400
+   },
+   "stage": "ocr",
+   "version": "ocr/4"
+  }
+ },
+ "scan:collegian-1976-05-13/0001#key-f3528d090010": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:f7c605569ade9015890ce73b050150f6120c896eba8e4c5408e0b6bb5b1f4c23"
+   },
+   "made": "2026-11-06T21:07:21+00:00",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "scan:collegian-1976-05-13/0003": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:43e7d274d25b1ca60c0526c38fdafb03caa7ccc4083ffeb52b2a82b47136191a",
+    "layout": "sha256:ce05ac7d38900959d19cb62ea63101c4e63bc020ca205f0d982b27ee6c8899e3",
+    "ocr": "sha256:bc76fd65f42c4fd4473b84aa540209e51a4dc14d0b1b6994a90f45314637b57c"
+   },
+   "made": "2026-11-06T20:38:02+00:00",
+   "output": "sha256:37d82f7983f9785e9b293b0cd56b39f4ccc0d787f876c3cd7f6135808a85b94e",
+   "settings": {
+    "keep_partial": 0.4,
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/15"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-11-06T20:37:49+00:00",
+   "output": "sha256:43e7d274d25b1ca60c0526c38fdafb03caa7ccc4083ffeb52b2a82b47136191a",
+   "settings": {
+    "source": "scan"
+   },
+   "stage": "image",
+   "version": "image/1"
+  },
+  "layout": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:43e7d274d25b1ca60c0526c38fdafb03caa7ccc4083ffeb52b2a82b47136191a"
+   },
+   "made": "2026-11-06T20:37:50+00:00",
+   "output": "sha256:ce05ac7d38900959d19cb62ea63101c4e63bc020ca205f0d982b27ee6c8899e3",
+   "settings": {
+    "max_grids": 12
+   },
+   "stage": "layout",
+   "version": "layout/10"
+  },
+  "ocr": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:43e7d274d25b1ca60c0526c38fdafb03caa7ccc4083ffeb52b2a82b47136191a"
+   },
+   "made": "2026-11-06T20:38:01+00:00",
+   "output": "sha256:bc76fd65f42c4fd4473b84aa540209e51a4dc14d0b1b6994a90f45314637b57c",
+   "settings": {
+    "engine": "rapidocr",
+    "upscale_below": 2400
+   },
+   "stage": "ocr",
+   "version": "ocr/4"
+  }
+ },
+ "scan:collegian-1976-05-13/0003#key-f3528d090010": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:43e7d274d25b1ca60c0526c38fdafb03caa7ccc4083ffeb52b2a82b47136191a"
+   },
+   "made": "2026-11-06T21:07:21+00:00",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ }
+}

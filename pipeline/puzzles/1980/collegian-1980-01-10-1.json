@@ -1,0 +1,34 @@
+{
+ "id": "collegian-1980-01-10-1",
+ "aliases": [
+  "collegian1980-01-10-L001"
+ ],
+ "xdid": "collegian1980-01-10-L001",
+ "issue": "1980-01-10",
+ "date": "1980-01-10",
+ "grid": {
+  "unit": "scan:collegian-1980-01-10/0001",
+  "extract": "sha256:8bc581cbb29fa8010b309e1e0d466f63f90695681c472d2201fa4053741bfadc",
+  "size": "15x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [],
+ "reading": "sha256:fe04f275038f7151346c79f1cdc5d73a8bc36032e3c47a5af0efa1872f034b43",
+ "key": {
+  "unit": "scan:collegian-1980-01-11/0001",
+  "extract": "sha256:b803f317380582cb4be25017aead8df410b6b6f8282bf9a8322d53c9a55e796d",
+  "solution_id": "collegian-1980-01-11/1#2",
+  "how": "recovered (answers column)"
+ },
+ "checks": {
+  "solution": [
+   "1 unreadable solution letters",
+   "low-confidence letters at r1c14 r2c13 r3c14 r4c2 r4c15 r8c13 r9c9 r13c12 r14c1 r15c2"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:6c351c580c193c23a8fd5ce521fa917cb5903825a00f3e0f3683acee86314dd7"
+}

@@ -1,0 +1,34 @@
+{
+ "id": "collegian-1979-09-27-1",
+ "aliases": [
+  "collegian1979-09-27-L001"
+ ],
+ "xdid": "collegian1979-09-27-L001",
+ "issue": "1979-09-27",
+ "date": "1979-09-27",
+ "grid": {
+  "unit": "scan:collegian-1979-09-27/0001",
+  "extract": "sha256:15b43dea9c4f58b6f99b32a41639d17600a416197a5a140c6deee8a3a4ec6f34",
+  "size": "15x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [],
+ "reading": "sha256:04c38e57ba2cb5b841f78986696fe8c059719b9a09362f804e43f0263df816b6",
+ "key": {
+  "unit": "scan:collegian-1979-09-28/0001",
+  "extract": "sha256:58e12701ea605fd712c1563ac7552c36ee93fe73e68b04b20584279ded8c6f74",
+  "solution_id": "collegian-1979-09-28/1#0",
+  "how": "answers column, grids agree"
+ },
+ "checks": {
+  "solution": [
+   "2 unreadable solution letters",
+   "low-confidence letters at r1c3 r1c6 r1c9 r1c14 r2c1 r2c15 r3c10 r4c1 r4c15 r6c6 r6c14 r7c1 r7c5 r7c7 r7c8 r7c10 r7c14 r7c15 r8c3 r8c11 r9c1 r9c3 r9c7 r9c9 r10c2 r10c10 r11c10 r12c3 r14c6 r14c10 r15c2 r15c4 r15c9 r15c13"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:4f6463307c686a140a264d9d5126e363988f9d20f5519e980d311a2ca9b21d6a"
+}

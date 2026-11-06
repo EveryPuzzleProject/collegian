@@ -1,0 +1,34 @@
+{
+ "id": "collegian-1980-03-19-1",
+ "aliases": [
+  "collegian1980-03-19-L003"
+ ],
+ "xdid": "collegian1980-03-19-L003",
+ "issue": "1980-03-19",
+ "date": "1980-03-19",
+ "grid": {
+  "unit": "scan:collegian-1980-03-19/0003",
+  "extract": "sha256:582aec3fb1b8ab03f82f93044aefce6a31aa34023035712b84a79dac6bf7c148",
+  "size": "15x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [],
+ "reading": "sha256:481921dcaa5856a13d949bb0ba3b769686bf56ca8b5268136a7ff8c8a3955191",
+ "key": {
+  "unit": "scan:collegian-1980-03-20/0001",
+  "extract": "sha256:af74118c8bbff02f1a4527792bc621d2ed25fc78e0acb0e6e724fbcd921a335c",
+  "solution_id": "collegian-1980-03-20/1#0",
+  "how": "answers column, grids agree"
+ },
+ "checks": {
+  "solution": [
+   "5 unreadable solution letters",
+   "low-confidence letters at r1c1 r4c1 r4c15 r5c4 r7c3 r7c8 r7c14 r8c2 r9c4 r9c11 r13c6 r14c1 r14c7 r14c8 r14c15 r15c3 r15c4 r15c6 r15c12 r15c14"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:ea6e260cb500b541e56e8c362ca2780a484ae3177a9820dc2e1f82220e9bb005"
+}

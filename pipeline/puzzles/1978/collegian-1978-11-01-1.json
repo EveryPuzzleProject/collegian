@@ -1,0 +1,37 @@
+{
+ "id": "collegian-1978-11-01-1",
+ "aliases": [
+  "collegian1978-11-01-L001"
+ ],
+ "xdid": "collegian1978-11-01-L001",
+ "issue": "1978-11-01",
+ "date": "1978-11-01",
+ "grid": {
+  "unit": "scan:collegian-1978-11-01/0001",
+  "extract": "sha256:2b6b0ccc4e2dc99c99f412c78e0f9bcae784b4d306727ddf46e8317184ad5783",
+  "size": "15x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [],
+ "reading": "sha256:03e1fc768eca6973c522da2e9928f487817dba5ad9db658b622b97751957a13c",
+ "key": {
+  "unit": "scan:collegian-1978-11-02/0003",
+  "extract": "sha256:0809b2bf1764c0b6ff4c3882b581dd7879f67cdf90fe7e92f56c8bbb48637ae1",
+  "solution_id": "collegian-1978-11-02/3#0",
+  "how": "answers column, grids differ in 1 square"
+ },
+ "checks": {
+  "solution": [
+   "puzzle and solution grids differ at r12c5",
+   "low-confidence letters at r1c3 r3c3 r5c1 r9c9 r11c6"
+  ],
+  "asymmetric": 1,
+  "warnings": [
+   "Answer key as given by the folder's answers column (collegian-1978-11-02 leaf 3, collegian-1978-11-02/3#0) has different black squares from the puzzle (grids differ in 1 square): puzzle .......#....... .......#....... ............... ...###...###... ...#.......#... ...#.......#... .......#....... ###...###...### .......#....... ...#.......#... ...#.......#... ...#.#...###... ............... .......#....... .......#.......; key .......#....... .......#....... ............... ...###...###... ...#.......#... ...#.......#... .......#....... ###...###...### .......#....... ...#.......#... ...#.......#... ...###...###... ............... .......#....... .......#........ Check the row's pairing, or the grid reading.",
+   "Grid isn't symmetric: 1 square pair(s) differ (r4c11/r12c5). Check those black squares against the scan, or confirm the design is asymmetric."
+  ]
+ },
+ "xd": "sha256:feee445ef95b37677d5a38d747e5f6efd47032c007243fa1009c9df3172b67d9"
+}

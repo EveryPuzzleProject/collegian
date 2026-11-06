@@ -1,0 +1,36 @@
+{
+ "id": "collegian-1978-09-08-1",
+ "aliases": [
+  "collegian1978-09-08-L001"
+ ],
+ "xdid": "collegian1978-09-08-L001",
+ "issue": "1978-09-08",
+ "date": "1978-09-08",
+ "grid": {
+  "unit": "scan:collegian-1978-09-08/0001",
+  "extract": "sha256:1cdb58c4eb732daa2ffc0e32bb4c66420b123c359423cdd1a9def74503044e88",
+  "size": "15x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [],
+ "reading": "sha256:0bc619059ed38095e67ae5eef337941ce189c67a28660292499fee51154e7498",
+ "key": {
+  "unit": "scan:collegian-1978-09-11/0003",
+  "extract": "sha256:34b83736be8ed5609bbb6de4a941866b0eadcaf06f89f1a63a5700fd28e2ec4b",
+  "solution_id": "collegian-1978-09-11/3#1",
+  "how": "recovered (answers column)"
+ },
+ "checks": {
+  "solution": [
+   "2 unreadable solution letters",
+   "low-confidence letters at r1c8 r2c3 r2c6 r2c10 r3c3 r4c15 r6c6 r6c9 r7c1 r7c3 r7c6 r7c15 r9c5 r10c12 r11c7 r11c9 r15c10 r15c12 r15c15"
+  ],
+  "asymmetric": 0,
+  "warnings": [
+   "Kept partial: its clues lined up for only 49% of its slots (the usual floor is 75%; the publication keeps grids from 40%). 11 clues not read, marked missing: A39 A41 A42 A43 A44 A64 A65 A66 A67 A68 A69. The grid's reading and the clue layout are suspect."
+  ]
+ },
+ "xd": "sha256:47ce7a82c337d685915325ae3bc5190ad574dbc3818aa12424fc2a11139be9c1"
+}

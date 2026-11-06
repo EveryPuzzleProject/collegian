@@ -1,0 +1,28 @@
+{
+ "id": "collegian-1978-02-03-1",
+ "aliases": [
+  "collegian1978-02-03-L001"
+ ],
+ "xdid": "collegian1978-02-03-L001",
+ "issue": "1978-02-03",
+ "date": "1978-02-03",
+ "grid": {
+  "unit": "scan:collegian-1978-02-03/0001",
+  "extract": "sha256:96b1fec505ccf5eadeea1d561709758c1fb120abe191eefc221573c649a80994",
+  "size": "15x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [],
+ "reading": "sha256:644ed603c12865d2790da27116a2873390ec67a453f6e2e0bb724af661300103",
+ "checks": {
+  "solution": [],
+  "asymmetric": 0,
+  "warnings": [
+   "Kept partial: its clues lined up for only 69% of its slots (the usual floor is 75%; the publication keeps grids from 40%). 1 clue not read, marked missing: A52. The grid's reading and the clue layout are suspect.",
+   "The folder's answers column names a key for this puzzle (collegian-1978-02-03 leaf 3), but no answer grid of the puzzle's size was read there. Check the key crop (the regions and parts views), or the pairing."
+  ]
+ },
+ "xd": "sha256:e4eb0b0780aec54a2c8c727a3fbac50dabe8a310e174f28a6b9f9307c5bce86f"
+}

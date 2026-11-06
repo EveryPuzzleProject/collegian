@@ -1,0 +1,38 @@
+{
+ "id": "collegian-1981-02-05-1",
+ "aliases": [
+  "collegian1981-02-05-L003"
+ ],
+ "xdid": "collegian1981-02-05-L003",
+ "issue": "1981-02-05",
+ "date": "1981-02-05",
+ "grid": {
+  "unit": "scan:collegian-1981-02-05/0003",
+  "extract": "sha256:041e30f419bf6e41eaaf1c5f1362bca40cfd5da00de2d405f1aab7e9b844601b",
+  "size": "15x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [],
+ "reading": "sha256:7f574634f433fc35a5d3c3bf94121c8e2896d42fdb1d573d7c3869fe160e37e2",
+ "key": {
+  "unit": "scan:collegian-1981-02-06/0003",
+  "extract": "sha256:67f78f2bd605d03eb9b67c279af5bad4aa122ca7993962ce343ecd894201f3b6",
+  "solution_id": "collegian-1981-02-06/3#2",
+  "how": "recovered (answers column) near:1"
+ },
+ "checks": {
+  "solution": [
+   "puzzle and solution grids differ at r5c2",
+   "1 unreadable solution letters",
+   "low-confidence letters at r3c1 r3c7 r3c15 r4c5 r6c4 r8c10 r9c3 r9c4 r9c8 r10c10 r10c11 r12c15 r13c12 r14c1 r14c7"
+  ],
+  "asymmetric": 1,
+  "warnings": [
+   "Kept partial: its clues lined up for only 64% of its slots (the usual floor is 75%; the publication keeps grids from 40%). 19 clues not read, marked missing: A27 D30 D31 D33 D34 D36 D39 D40 D43 D44 D45 D46 .... The grid's reading and the clue layout are suspect.",
+   "Grid isn't symmetric: 1 square pair(s) differ (r5c2/r11c14). Check those black squares against the scan, or confirm the design is asymmetric."
+  ]
+ },
+ "xd": "sha256:18c7ab38037d0de03eb8e768bf265d2a49b0093f4c13e236cc7fd687e04e228a"
+}

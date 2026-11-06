@@ -1,0 +1,37 @@
+{
+ "id": "collegian-1979-02-09-1",
+ "aliases": [
+  "collegian1979-02-09-L003"
+ ],
+ "xdid": "collegian1979-02-09-L003",
+ "issue": "1979-02-09",
+ "date": "1979-02-09",
+ "grid": {
+  "unit": "scan:collegian-1979-02-09/0003",
+  "extract": "sha256:d3277250db849ed1a8cee41e46ef9889535e5626a7bafd547d6136a00c16b2c2",
+  "size": "15x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [],
+ "reading": "sha256:ad839dab0b213bb66d52abca6a4bf8ccadb15d1aba97274335fb99bd131052d6",
+ "key": {
+  "unit": "scan:collegian-1979-02-12/0003",
+  "extract": "sha256:7fa452df62709ddeb7bd8f7e1d280bad131b0b732c89ad05632131a9f86e72ad",
+  "solution_id": "collegian-1979-02-12/3#0",
+  "how": "answers column, grids differ in 19 squares"
+ },
+ "checks": {
+  "solution": [
+   "puzzle and solution grids differ at r1c11 r2c5 r2c11 r3c5 r3c11 r4c8 r5c9 r6c7 r6c13 r6c14 r6c15 r7c6 r8c4 r8c12 r9c10 r10c9 r11c13 r11c14 r11c15",
+   "18 unreadable solution letters",
+   "low-confidence letters at r1c11 r2c5 r2c11 r3c5 r3c11 r4c8 r4c14 r5c9 r6c7 r6c13 r6c14 r6c15 r7c6 r8c4 r8c12 r9c10 r10c9 r11c11 r11c13 r11c14 r11c15 r12c9"
+  ],
+  "asymmetric": 0,
+  "warnings": [
+   "Answer key as given by the folder's answers column (collegian-1979-02-12 leaf 3, collegian-1979-02-12/3#0) has different black squares from the puzzle (grids differ in 19 squares): puzzle ....#.....#.... ....#.....#.... ....#.....#.... .......#....... ###.....#...... ......#.....### .....#....#.... ...#.......#... ....#....#..... ###.....#...... ......#.....### .......#....... ....#.....#.... ....#.....#.... ....#.....#....; key ....#.......... ............... ............... ............... ###............ ............... ..........#.... ............... ....#.......... ###............ ......#........ .......#....... ....#.....#.... ....#.....#.... ....#.....#..... Check the row's pairing, or the grid reading."
+  ]
+ },
+ "xd": "sha256:49c66a4cc4078b195f809923afab874ccc6a06fd4b384d55263f7bacf8213a64"
+}

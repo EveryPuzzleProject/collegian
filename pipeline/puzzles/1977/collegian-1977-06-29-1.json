@@ -1,0 +1,37 @@
+{
+ "id": "collegian-1977-06-29-1",
+ "aliases": [
+  "collegian1977-06-29-L001"
+ ],
+ "xdid": "collegian1977-06-29-L001",
+ "issue": "1977-06-29",
+ "date": "1977-06-29",
+ "grid": {
+  "unit": "scan:collegian-1977-06-29/0001",
+  "extract": "sha256:bec8a768df6659e2471f3f53993b855c55fba7a52f9af15ec62c8a0da55bf3fc",
+  "size": "17x17",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [],
+ "reading": "sha256:5a1e2c3717b0ada3d4d318dfff809607993dba6253c66b5f5fd42ce3632ad10b",
+ "key": {
+  "unit": "scan:collegian-1977-06-29/0003",
+  "extract": "sha256:657880947a2d1317e41338a0c9abc0ab9c0e5eced0d86221ed776d8aced6c66c",
+  "solution_id": "collegian-1977-06-29/3#0",
+  "how": "answers column, grids differ in 3 squares"
+ },
+ "checks": {
+  "solution": [
+   "puzzle and solution grids differ at r7c1 r7c2 r13c1",
+   "low-confidence letters at r1c16 r8c1 r16c7"
+  ],
+  "asymmetric": 3,
+  "warnings": [
+   "Answer key as given by the folder's answers column (collegian-1977-06-29 leaf 3, collegian-1977-06-29/3#0) has different black squares from the puzzle (grids differ in 3 squares): puzzle ......#.....#.... ......#.....#.... ................. ...#....##....... ....#.....#...### .....#.....#..... ..#...#.....#.... .......#.....#... ................. ...#.....#....... ....#.....#...### .....#.....#..... .##...#.....#.... .......##....#... ................. ....#.....#...... ....#.....#......; key ......#.....#.... ......#.....#.... ................. ...#....##....... ....#.....#...### .....#.....#..... ###...#.....#.... .......#.....#... ................. ...#.....#....... ....#.....#...### .....#.....#..... ###...#.....#.... .......##....#... ................. ....#.....#...... ....#.....#....... Check the row's pairing, or the grid reading.",
+   "Grid isn't symmetric: 3 square pair(s) differ (r5c17/r13c1, r7c1/r11c17, r7c2/r11c16). Check those black squares against the scan, or confirm the design is asymmetric."
+  ]
+ },
+ "xd": "sha256:dc4dfceff57fb8e7d0bfce73bc3667f8f00aada4d357818a71f1a1852f1d0eaa"
+}

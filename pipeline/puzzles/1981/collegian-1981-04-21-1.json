@@ -1,0 +1,34 @@
+{
+ "id": "collegian-1981-04-21-1",
+ "aliases": [
+  "collegian1981-04-21-L003"
+ ],
+ "xdid": "collegian1981-04-21-L003",
+ "issue": "1981-04-21",
+ "date": "1981-04-21",
+ "grid": {
+  "unit": "scan:collegian-1981-04-21/0003",
+  "extract": "sha256:07b99f42d042534a7111d9c7133bc7999d67784750f4239d02068e88d2619526",
+  "size": "15x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [],
+ "reading": "sha256:51d8a105c75ffe6d9b91c2ad8b27edac1eff26c0b560b82b9c4b96f614694e8d",
+ "key": {
+  "unit": "scan:collegian-1981-04-22/0001",
+  "extract": "sha256:7df893ed62d755f61df0dfebf02cb6f09ab9034939f07769e7ce27f6145ae3b1",
+  "solution_id": "collegian-1981-04-22/1#0",
+  "how": "answers column, grids agree"
+ },
+ "checks": {
+  "solution": [
+   "4 unreadable solution letters",
+   "low-confidence letters at r1c3 r1c9 r1c15 r2c8 r2c10 r3c11 r4c3 r4c4 r4c13 r4c14 r6c6 r6c10 r7c1 r7c7 r8c5 r9c7 r9c9 r10c13 r12c15 r14c1 r14c8 r15c1"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:291f696e199fed74f46f1fc3b728e2a41bf692475e8183564ff35c4414f40301"
+}

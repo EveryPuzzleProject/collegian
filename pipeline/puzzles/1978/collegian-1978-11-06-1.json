@@ -1,0 +1,36 @@
+{
+ "id": "collegian-1978-11-06-1",
+ "aliases": [
+  "collegian1978-11-06-L001"
+ ],
+ "xdid": "collegian1978-11-06-L001",
+ "issue": "1978-11-06",
+ "date": "1978-11-06",
+ "grid": {
+  "unit": "scan:collegian-1978-11-06/0001",
+  "extract": "sha256:19f45a141cd427ec4b9ef7abec362ae685bf1ce1b5da231847749f460e76cced",
+  "size": "15x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [],
+ "reading": "sha256:f71c87785f728f525e10e6a2b0146fa17c90b3768a776d6d0b6b3c181b6d459d",
+ "key": {
+  "unit": "scan:collegian-1978-11-07/0003",
+  "extract": "sha256:f1a0e767b372551dbc1aab8da5219d490e5dc337322b6f22a69c0cb65625f487",
+  "solution_id": "collegian-1978-11-07/3#0",
+  "how": "answers column, grids agree"
+ },
+ "checks": {
+  "solution": [
+   "2 unreadable solution letters",
+   "low-confidence letters at r2c2 r3c11 r5c12 r6c5 r11c10 r15c3 r15c15"
+  ],
+  "asymmetric": 0,
+  "warnings": [
+   "Kept partial: its clues lined up for only 51% of its slots (the usual floor is 75%; the publication keeps grids from 40%). 17 clues not read, marked missing: A23 A30 A32 A34 A35 A39 A43 A44 A46 A47 A48 A49 .... The grid's reading and the clue layout are suspect."
+  ]
+ },
+ "xd": "sha256:75c7b5b1215e34f496020f16a3b4551e45c1388cd962515e71f8c16bcfcdda78"
+}

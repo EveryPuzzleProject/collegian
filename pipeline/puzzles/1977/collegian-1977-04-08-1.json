@@ -1,0 +1,37 @@
+{
+ "id": "collegian-1977-04-08-1",
+ "aliases": [
+  "collegian1977-04-08-L001"
+ ],
+ "xdid": "collegian1977-04-08-L001",
+ "issue": "1977-04-08",
+ "date": "1977-04-08",
+ "grid": {
+  "unit": "scan:collegian-1977-04-08/0001",
+  "extract": "sha256:8c39f3b1aa574994fe2c08a7f8e3938221d36e160dd01f03821d71cf4136f0b2",
+  "size": "17x17",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [],
+ "reading": "sha256:a6df8ee63aae727b78e6fac795e6315e6d86cce18fa9a7c526bed96f90756437",
+ "key": {
+  "unit": "scan:collegian-1977-04-08/0003",
+  "extract": "sha256:e837789bc86af176459e49c08f906a8110c50f11ef92c92899cdb12dbcd73d78",
+  "solution_id": "collegian-1977-04-08/3#0",
+  "how": "answers column, grids differ in 32 squares"
+ },
+ "checks": {
+  "solution": [
+   "puzzle and solution grids differ at r1c5 r1c11 r1c12 r2c5 r2c11 r3c5 r3c11 r4c1 r5c1 r5c2 r5c3 r7c17 r8c15 r8c16 r8c17 r9c1 r9c17 r10c1 r10c2 r10c3 r11c1 r13c15 r13c16 r13c17 r14c17 r15c7 r15c13 r16c7 r16c13 r17c6 r17c7 r17c13",
+   "14 unreadable solution letters",
+   "low-confidence letters at r1c1 r1c5 r1c11 r2c11 r2c13 r2c15 r4c1 r5c1 r5c2 r5c3 r5c4 r8c2 r8c15 r8c16 r8c17 r9c6 r9c17 r10c1 r10c2 r10c3 r11c1 r13c7 r13c16 r13c17 r14c11 r14c17 r15c12 r15c13 r15c15 r16c7 r16c9 r16c15 r17c13"
+  ],
+  "asymmetric": 0,
+  "warnings": [
+   "Answer key as given by the folder's answers column (collegian-1977-04-08 leaf 3, collegian-1977-04-08/3#0) has different black squares from the puzzle (grids differ in 32 squares): puzzle ....#.....##..... ....#.....#...... ....#.....#...... #................ ###....##...##... ......#....#..... .....#....#.....# ....#....#....### #...............# ###....#....#.... #.....#....#..... .....#....#...... ...##...##....### ................# ......#.....#.... ......#.....#.... .....##.....#....; key ................. ................. ................. ................. .......##...##... ......#....#..... .....#....#...... ....#....#....... ................. .......#....#.... ......#....#..... .....#....#...... ...##...##....... ................. ................. ................. .................. Check the row's pairing, or the grid reading."
+  ]
+ },
+ "xd": "sha256:97ff574c9de86b2d249c855273d39e33399a4656feb9f68ad2216b7fa3a7ea23"
+}

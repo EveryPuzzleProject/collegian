@@ -1,0 +1,28 @@
+{
+ "id": "collegian-1980-07-11-3",
+ "aliases": [
+  "collegian1980-07-11-L001-3"
+ ],
+ "xdid": "collegian1980-07-11-L001-3",
+ "issue": "1980-07-11",
+ "date": "1980-07-11",
+ "grid": {
+  "unit": "scan:collegian-1980-07-11/0001",
+  "extract": "sha256:999699adba1d6cb281ea7f9eacd4408e42b578da785646bf6b4431e1bedfa298",
+  "size": "3x16",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [],
+ "reading": "sha256:fa8b6adde50043a3cd6a61ddea85be7920df11da8d1cedf6db52d4e8b58b3960",
+ "checks": {
+  "solution": [],
+  "asymmetric": 0,
+  "warnings": [
+   "Kept partial: its clues lined up for only 71% of its slots (the usual floor is 75%; the publication keeps grids from 40%). 0 clues not read, marked missing: . The grid's reading and the clue layout are suspect.",
+   "The folder's answers column names a key for this puzzle (collegian-1980-07-14 leaf 1), but no answer grid of the puzzle's size was read there. Check the key crop (the regions and parts views), or the pairing."
+  ]
+ },
+ "xd": "sha256:e3a96a63ab5dd61de635295f0e96a87795ef5542edfd93154f9a5bd48e53b563"
+}

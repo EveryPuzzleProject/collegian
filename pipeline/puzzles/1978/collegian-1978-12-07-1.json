@@ -1,0 +1,37 @@
+{
+ "id": "collegian-1978-12-07-1",
+ "aliases": [
+  "collegian1978-12-07-L001"
+ ],
+ "xdid": "collegian1978-12-07-L001",
+ "issue": "1978-12-07",
+ "date": "1978-12-07",
+ "grid": {
+  "unit": "scan:collegian-1978-12-07/0001",
+  "extract": "sha256:14d9947beffa2f88cd6038a4e737aef8bb38c045ce61b325d19b39c7a76d3b59",
+  "size": "15x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [],
+ "reading": "sha256:358b2d40e47e35bfe07e344555f2636db6e624784b606a4259118cee9630981a",
+ "key": {
+  "unit": "scan:collegian-1978-12-08/0001",
+  "extract": "sha256:948da845bbc8d1aa07aa3dc2a9c1f001c811a1ec82473026e96033cc33590f7b",
+  "solution_id": "collegian-1978-12-08/1#0",
+  "how": "answers column, grids differ in 3 squares"
+ },
+ "checks": {
+  "solution": [
+   "puzzle and solution grids differ at r11c1 r11c8 r15c11",
+   "2 unreadable solution letters",
+   "low-confidence letters at r8c8 r11c1 r11c8 r11c10 r13c1 r15c11"
+  ],
+  "asymmetric": 0,
+  "warnings": [
+   "Answer key as given by the folder's answers column (collegian-1978-12-08 leaf 1, collegian-1978-12-08/1#0) has different black squares from the puzzle (grids differ in 3 squares): puzzle ....#.....#.... ....#.....#.... ....#.....#.... ............... ###....#....### ......#........ .....#.....#... ....#.....#.... ...#.....#..... ........#...... ###....#....### ............... ....#.....#.... ....#.....#.... ....#.....#....; key ....#.....#.... ....#.....#.... ....#.....#.... ............... ###....#....### ......#........ .....#.....#... ....#.....#.... ...#.....#..... ........#...... .##.........### ............... ....#.....#.... ....#.....#.... ....#........... Check the row's pairing, or the grid reading."
+  ]
+ },
+ "xd": "sha256:3103f0347faa7a6b0719c2bb071c2501eed9729c4688a9dba4cee4bda801105c"
+}

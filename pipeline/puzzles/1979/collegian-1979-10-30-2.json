@@ -1,0 +1,28 @@
+{
+ "id": "collegian-1979-10-30-2",
+ "aliases": [
+  "collegian1979-10-30-L003-2"
+ ],
+ "xdid": "collegian1979-10-30-L003-2",
+ "issue": "1979-10-30",
+ "date": "1979-10-30",
+ "grid": {
+  "unit": "scan:collegian-1979-10-30/0003",
+  "extract": "sha256:68267ff5fe338294f8ed861081e9a9b400be71528a15d885cf763ed9bc22704c",
+  "size": "3x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [],
+ "reading": "sha256:43daf96b52781262d12cefc39893dbc66beab7ecbfea8ce50b21403f913ec19c",
+ "checks": {
+  "solution": [],
+  "asymmetric": 1,
+  "warnings": [
+   "The folder's answers column names a key for this puzzle (collegian-1979-10-31 leaf 1), but no answer grid of the puzzle's size was read there. Check the key crop (the regions and parts views), or the pairing.",
+   "Grid isn't symmetric: 1 square pair(s) differ (r1c11/r3c5). Check those black squares against the scan, or confirm the design is asymmetric."
+  ]
+ },
+ "xd": "sha256:97959cc1ea64040a3d964f979acac79c3d29ba0a398e9b582b2df95b10100558"
+}

@@ -1,0 +1,73 @@
+{
+ "scan:collegian-1980-03-10/0001": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:b137542d9b96eb9e548a885918ff6065004d35c59e791582fc98bce9f42a29c0",
+    "layout": "sha256:5b9ee85b3ffe6b46b0c16bd9c1fa25c12ec11422dc736b9c3381e6ee40b3605b",
+    "ocr": "sha256:6f4045b9b48b28ceab4a8599aa0e9cb99fb913d8c68952ecb8ee916f72b36ee7"
+   },
+   "made": "2026-11-06T20:59:39+00:00",
+   "output": "sha256:e3803333628e88302ff27d8aeb998c421fb3d65fdc6695a2927b58282169e69d",
+   "settings": {
+    "keep_partial": 0.4,
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/15"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-11-06T20:59:33+00:00",
+   "output": "sha256:b137542d9b96eb9e548a885918ff6065004d35c59e791582fc98bce9f42a29c0",
+   "settings": {
+    "source": "scan"
+   },
+   "stage": "image",
+   "version": "image/1"
+  },
+  "layout": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:b137542d9b96eb9e548a885918ff6065004d35c59e791582fc98bce9f42a29c0"
+   },
+   "made": "2026-11-06T20:59:33+00:00",
+   "output": "sha256:5b9ee85b3ffe6b46b0c16bd9c1fa25c12ec11422dc736b9c3381e6ee40b3605b",
+   "settings": {
+    "max_grids": 12
+   },
+   "stage": "layout",
+   "version": "layout/10"
+  },
+  "ocr": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:b137542d9b96eb9e548a885918ff6065004d35c59e791582fc98bce9f42a29c0"
+   },
+   "made": "2026-11-06T20:59:36+00:00",
+   "output": "sha256:6f4045b9b48b28ceab4a8599aa0e9cb99fb913d8c68952ecb8ee916f72b36ee7",
+   "settings": {
+    "engine": "rapidocr",
+    "upscale_below": 2400
+   },
+   "stage": "ocr",
+   "version": "ocr/4"
+  }
+ },
+ "scan:collegian-1980-03-10/0001#key-f2841396da71": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:b137542d9b96eb9e548a885918ff6065004d35c59e791582fc98bce9f42a29c0"
+   },
+   "made": "2026-11-06T21:11:19+00:00",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ }
+}
