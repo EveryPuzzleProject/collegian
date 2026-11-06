@@ -1,0 +1,36 @@
+{
+ "id": "collegian-1977-06-17-1",
+ "aliases": [
+  "collegian1977-06-17-L001"
+ ],
+ "xdid": "collegian1977-06-17-L001",
+ "issue": "1977-06-17",
+ "date": "1977-06-17",
+ "grid": {
+  "unit": "scan:collegian-1977-06-17/0001",
+  "extract": "sha256:8f4c8248a022e0556c80acb916876fe8e9fb2b14d3db2a1030582c7c4e27db2f",
+  "size": "17x17",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [],
+ "reading": "sha256:abb3620107c5a8b0bd6c11a1016e2486f6016643877419b004d34143761dcec0",
+ "key": {
+  "unit": "scan:collegian-1977-06-17/0003",
+  "extract": "sha256:48058ab3f4dc09063bbd18dadcf84e0af2b7537a994acfd65c7d9a81d7c90088",
+  "solution_id": "collegian-1977-06-17/3#0",
+  "how": "answers column, grids agree"
+ },
+ "checks": {
+  "solution": [
+   "22 unreadable solution letters",
+   "low-confidence letters at r1c6 r1c10 r1c11 r1c12 r1c17 r2c3 r2c10 r2c11 r3c2 r3c10 r5c9 r6c2 r6c17 r7c1 r7c15 r7c16 r7c17 r8c15 r8c16 r8c17 r10c1 r10c2 r10c3 r11c1 r11c2 r12c1 r12c17 r16c1 r16c7 r16c8 r16c12 r17c1 r17c2 r17c6 r17c7 r17c12"
+  ],
+  "asymmetric": 0,
+  "warnings": [
+   "Kept partial: its clues lined up for only 66% of its slots (the usual floor is 75%; the publication keeps grids from 40%). 4 clues not read, marked missing: A33 A42 A43 A44. The grid's reading and the clue layout are suspect."
+  ]
+ },
+ "xd": "sha256:9802f6ca75cb90ca724205c1b8a5236f4c265a96bdf1690142cee619910f913e"
+}

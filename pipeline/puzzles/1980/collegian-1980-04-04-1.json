@@ -1,0 +1,36 @@
+{
+ "id": "collegian-1980-04-04-1",
+ "aliases": [
+  "collegian1980-04-04-L003"
+ ],
+ "xdid": "collegian1980-04-04-L003",
+ "issue": "1980-04-04",
+ "date": "1980-04-04",
+ "grid": {
+  "unit": "scan:collegian-1980-04-04/0003",
+  "extract": "sha256:5c7715daf4a764c8245ddfd2f0290175beceb5fc54c8cb07824c0bc7d41b4560",
+  "size": "15x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [],
+ "reading": "sha256:dc72a7bd21a73f22f9027af21686daef2ccb92eab992c31135f9f26197f69018",
+ "key": {
+  "unit": "scan:collegian-1980-04-07/0001",
+  "extract": "sha256:cf4adb05299bd3690a8d1db64a09172818de5c7fc24e4232082cf1182af8942f",
+  "solution_id": "collegian-1980-04-07/1#0",
+  "how": "answers column, grids agree"
+ },
+ "checks": {
+  "solution": [
+   "3 unreadable solution letters",
+   "low-confidence letters at r1c1 r1c2 r1c5 r3c3 r3c9 r5c9 r6c5 r7c2 r9c12 r10c15 r11c6 r11c12 r12c5 r14c1 r14c4 r14c6 r14c15"
+  ],
+  "asymmetric": 0,
+  "warnings": [
+   "Kept partial: its clues lined up for only 61% of its slots (the usual floor is 75%; the publication keeps grids from 40%). 4 clues not read, marked missing: D4 D5 D6 D7. The grid's reading and the clue layout are suspect."
+  ]
+ },
+ "xd": "sha256:7eadfedc81453d2ca4e56871371149aae8271d1f01d784f02c26c526fb03c65d"
+}

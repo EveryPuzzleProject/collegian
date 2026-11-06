@@ -1,0 +1,28 @@
+{
+ "id": "collegian-1980-02-11-1",
+ "aliases": [
+  "collegian1980-02-11-L003"
+ ],
+ "xdid": "collegian1980-02-11-L003",
+ "issue": "1980-02-11",
+ "date": "1980-02-11",
+ "grid": {
+  "unit": "scan:collegian-1980-02-11/0003",
+  "extract": "sha256:c14ae4fe17a7079a1abedd218905e44d38c0b73cc24cb00942aecc3c567c06ce",
+  "size": "9x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [],
+ "reading": "sha256:cbcde2bbc4ff3c6625821c0768291a85bc579f420d9e4fd78dabd0099cdc4031",
+ "checks": {
+  "solution": [],
+  "asymmetric": 15,
+  "warnings": [
+   "The folder's answers column names a key for this puzzle (collegian-1980-02-12 leaf 3), but no answer grid of the puzzle's size was read there. Check the key crop (the regions and parts views), or the pairing.",
+   "Grid isn't symmetric: 15 square pair(s) differ (r1c5/r9c11, r1c6/r9c10, r1c10/r9c6, r1c12/r9c4, r2c10/r8c6, r2c11/r8c5, r3c4/r7c12, r3c10/r7c6). Check those black squares against the scan, or confirm the design is asymmetric."
+  ]
+ },
+ "xd": "sha256:66c91b3458f8b850e0900d9b653c8b7b1ae7aa76c977302e7219ee8e4549876d"
+}

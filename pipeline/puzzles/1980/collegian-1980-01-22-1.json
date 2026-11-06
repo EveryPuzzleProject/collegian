@@ -1,0 +1,35 @@
+{
+ "id": "collegian-1980-01-22-1",
+ "aliases": [
+  "collegian1980-01-22-L001"
+ ],
+ "xdid": "collegian1980-01-22-L001",
+ "issue": "1980-01-22",
+ "date": "1980-01-22",
+ "grid": {
+  "unit": "scan:collegian-1980-01-22/0001",
+  "extract": "sha256:ee6df680db6af0c0824b07cb11f6b3c29233a61257bbc41879da7d9becd5cdb4",
+  "size": "14x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [],
+ "reading": "sha256:4e8476b07a870d01b8ba01527230eecd280cd668d29799d65d1c6dc3bd92ccd0",
+ "key": {
+  "unit": "scan:collegian-1980-01-23/0001",
+  "extract": "sha256:efbbf3fe33656b21447ae2592a9c0eb7dbccdc063c819081d1f5faf3a6a77763",
+  "solution_id": "collegian-1980-01-23/1#1",
+  "how": "recovered (answers column)"
+ },
+ "checks": {
+  "solution": [
+   "low-confidence letters at r1c12 r2c12 r6c12 r6c15 r7c15 r8c7 r9c2 r9c4 r10c4 r10c5 r10c7 r13c10"
+  ],
+  "asymmetric": 24,
+  "warnings": [
+   "Grid isn't symmetric: 24 square pair(s) differ (r1c1/r14c15, r1c15/r14c1, r3c4/r12c12, r3c5/r12c11, r3c6/r12c10, r3c8/r12c8, r3c11/r12c5, r3c12/r12c4). Check those black squares against the scan, or confirm the design is asymmetric."
+  ]
+ },
+ "xd": "sha256:b8e651617d227a478f96fe988e7cba48d045711b3a306e26f26686c296d018d2"
+}

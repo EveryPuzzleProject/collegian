@@ -1,0 +1,25 @@
+{
+ "id": "collegian-1976-09-29-1",
+ "aliases": [
+  "collegian1976-09-29-L001"
+ ],
+ "xdid": "collegian1976-09-29-L001",
+ "issue": "1976-09-29",
+ "date": "1976-09-29",
+ "grid": {
+  "unit": "scan:collegian-1976-09-29/0001",
+  "extract": "sha256:f45c27b66c746d2a5a612290165d0092faad6cdc1b59b363c427a35d6bbf47f7",
+  "size": "17x17",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [],
+ "reading": "sha256:664eeff45bf0960a3da052584885a5d08af38f252c5cbaf04098cb842f0e013c",
+ "checks": {
+  "solution": [],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:76d0c835c94ccd64d8211ed5036010144a115ea6065a7ff6263a0c2604664e7f"
+}

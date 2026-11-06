@@ -1,0 +1,28 @@
+{
+ "id": "collegian-1981-05-04-1",
+ "aliases": [
+  "collegian1981-05-04-L003"
+ ],
+ "xdid": "collegian1981-05-04-L003",
+ "issue": "1981-05-04",
+ "date": "1981-05-04",
+ "grid": {
+  "unit": "scan:collegian-1981-05-04/0003",
+  "extract": "sha256:3fb088f17967757f49f8896c18c0437c124af774a7b9fedda63d62533e96614f",
+  "size": "15x13",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [],
+ "reading": "sha256:af1e0295a34b10c0dc15d74b3269f0eee36a70ffa143b131c13f904d88ec3ce5",
+ "checks": {
+  "solution": [],
+  "asymmetric": 32,
+  "warnings": [
+   "Kept partial: its clues lined up for only 48% of its slots (the usual floor is 75%; the publication keeps grids from 40%). 16 clues not read, marked missing: A12 A13 A27 A35 A42 A43 A45 A47 A49 A51 A52 A53 .... The grid's reading and the clue layout are suspect.",
+   "Grid isn't symmetric: 32 square pair(s) differ (r1c3/r15c11, r1c5/r15c9, r1c8/r15c6, r1c10/r15c4, r2c3/r14c11, r2c5/r14c9, r2c8/r14c6, r2c10/r14c4). Check those black squares against the scan, or confirm the design is asymmetric."
+  ]
+ },
+ "xd": "sha256:bf4211cfbc9fee8592393ea1abef9064610e3c17b645d8b30ab3e2a0a5063c97"
+}

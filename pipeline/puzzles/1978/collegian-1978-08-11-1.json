@@ -1,0 +1,35 @@
+{
+ "id": "collegian-1978-08-11-1",
+ "aliases": [
+  "collegian1978-08-11-L001"
+ ],
+ "xdid": "collegian1978-08-11-L001",
+ "issue": "1978-08-11",
+ "date": "1978-08-11",
+ "grid": {
+  "unit": "scan:collegian-1978-08-11/0001",
+  "extract": "sha256:c27e8c936871fcda4443c26bc178c4ef0023610f178b24cbafd4bc7031f24b24",
+  "size": "15x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [],
+ "reading": "sha256:e304dce1bca14a08e136d5238e1e3d2d38b4a1dadba5b4fb30f634ba11a8edf4",
+ "key": {
+  "unit": "scan:collegian-1978-08-11/0003",
+  "extract": "sha256:cdbba5462226815c3662de5b4631fc742b432468a2b67acc61767e7ecc0f706d",
+  "solution_id": "collegian-1978-08-11/3#1",
+  "how": "recovered (answers column) near:2"
+ },
+ "checks": {
+  "solution": [
+   "puzzle and solution grids differ at r7c13 r10c15",
+   "3 unreadable solution letters",
+   "low-confidence letters at r1c8 r1c14 r2c5 r2c10 r2c14 r2c15 r3c7 r5c9 r6c2 r7c1 r7c2 r7c6 r8c7 r12c14 r14c4 r14c11 r15c2 r15c9"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:5f986d289e782fe330d8057107f2e3791adf3f5735295a1f1f01e8c691e036f5"
+}

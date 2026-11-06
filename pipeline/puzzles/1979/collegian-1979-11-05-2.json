@@ -1,0 +1,37 @@
+{
+ "id": "collegian-1979-11-05-2",
+ "aliases": [
+  "collegian1979-11-05-L001-2"
+ ],
+ "xdid": "collegian1979-11-05-L001-2",
+ "issue": "1979-11-05",
+ "date": "1979-11-05",
+ "grid": {
+  "unit": "scan:collegian-1979-11-05/0001",
+  "extract": "sha256:abc42a8dbbb499a0a9b3950732cf1e6de94459ccc6b633addb4f877906eaf04c",
+  "size": "9x11",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [],
+ "reading": "sha256:b89a78c1f03efd145ec23e1553127831f4ff1ba345dbd3d100210400a6fd266c",
+ "key": {
+  "unit": "scan:collegian-1979-11-06/0001",
+  "extract": "sha256:356147291b503527ea66f20e8cd96628f0ae3903e23dbfe562f34eada78e291f",
+  "solution_id": "collegian-1979-11-06/1#0@r0c0:9x11",
+  "how": "answers column, grids agree (part of a merged answer grid)"
+ },
+ "checks": {
+  "solution": [
+   "1 unreadable solution letters",
+   "low-confidence letters at r2c1 r3c9 r4c8 r6c11 r7c4 r9c7"
+  ],
+  "asymmetric": 14,
+  "warnings": [
+   "Kept partial: its clues lined up for only 65% of its slots (the usual floor is 75%; the publication keeps grids from 40%). 2 clues not read, marked missing: A11 A12. The grid's reading and the clue layout are suspect.",
+   "Grid isn't symmetric: 14 square pair(s) differ (r1c3/r9c9, r1c4/r9c8, r1c10/r9c2, r1c11/r9c1, r2c4/r8c8, r2c9/r8c3, r2c11/r8c1, r3c4/r7c8). Check those black squares against the scan, or confirm the design is asymmetric."
+  ]
+ },
+ "xd": "sha256:10b1e2f7bd0d5a35e05f320c5706a2d3f4273991ff078dbc56a42ddad9a3c5f9"
+}

@@ -1,0 +1,27 @@
+{
+ "id": "collegian-1979-10-04-1",
+ "aliases": [
+  "collegian1979-10-04-L001"
+ ],
+ "xdid": "collegian1979-10-04-L001",
+ "issue": "1979-10-04",
+ "date": "1979-10-04",
+ "grid": {
+  "unit": "scan:collegian-1979-10-04/0001",
+  "extract": "sha256:ab1d2a4c96fc940d6bd7daa0836bb304aa4fed38eb01fc229f003e0622b9a587",
+  "size": "15x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [],
+ "reading": "sha256:c102e8888d5c8ac528542f961b7b97ee42918ead05c934de95922b0de5850d59",
+ "checks": {
+  "solution": [],
+  "asymmetric": 0,
+  "warnings": [
+   "The folder's answers column names a key for this puzzle (collegian-1979-10-05 leaf 1), but no answer grid of the puzzle's size was read there. Check the key crop (the regions and parts views), or the pairing."
+  ]
+ },
+ "xd": "sha256:e98f394a4eecc0725dec32f56391d6861b6c6e299773ef34bb4e42b98a3d0a21"
+}

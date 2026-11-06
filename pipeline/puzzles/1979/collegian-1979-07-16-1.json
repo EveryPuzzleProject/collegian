@@ -1,0 +1,36 @@
+{
+ "id": "collegian-1979-07-16-1",
+ "aliases": [
+  "collegian1979-07-16-L001"
+ ],
+ "xdid": "collegian1979-07-16-L001",
+ "issue": "1979-07-16",
+ "date": "1979-07-16",
+ "grid": {
+  "unit": "scan:collegian-1979-07-16/0001",
+  "extract": "sha256:daecc694478878b554c41ddd3bd3a2181b16ce3d3384d57d6688705f78f2df80",
+  "size": "15x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [],
+ "reading": "sha256:191556245e2af72aed5225ed4882cd0bab54094d6ee8d8ca2192f020001554e7",
+ "key": {
+  "unit": "scan:collegian-1979-07-18/0003",
+  "extract": "sha256:b508844bfee84e3bf70a95688c5599ebd64759fc572be98533330f3428628806",
+  "solution_id": "collegian-1979-07-18/3#0",
+  "how": "answers column, grids agree"
+ },
+ "checks": {
+  "solution": [
+   "12 unreadable solution letters",
+   "low-confidence letters at r1c7 r1c8 r1c13 r1c15 r2c2 r2c7 r2c10 r2c14 r2c15 r3c1 r3c2 r3c3 r3c6 r3c9 r3c13 r4c1 r4c5 r4c7 r5c7 r5c9 r6c5 r6c12 r6c15 r7c10 r8c1 r8c6 r9c8 r10c14 r11c7 r13c12 r13c15 r14c1 r14c2 r14c14 r15c14"
+  ],
+  "asymmetric": 0,
+  "warnings": [
+   "Kept partial: its clues lined up for only 59% of its slots (the usual floor is 75%; the publication keeps grids from 40%). 17 clues not read, marked missing: A35 A39 A40 A41 A42 A44 A45 A46 A48 A49 A52 A56 .... The grid's reading and the clue layout are suspect."
+  ]
+ },
+ "xd": "sha256:d9254a28dde13dae97df4577bb74783b3c87dd5c5b18d941e0fe8ecd4e37b144"
+}

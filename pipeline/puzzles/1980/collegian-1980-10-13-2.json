@@ -1,0 +1,38 @@
+{
+ "id": "collegian-1980-10-13-2",
+ "aliases": [
+  "collegian1980-10-13-L003-2",
+  "collegian1980-10-13-L003",
+  "collegian1980-10-13-L003"
+ ],
+ "xdid": "collegian1980-10-13-L003",
+ "issue": "1980-10-13",
+ "date": "1980-10-13",
+ "grid": {
+  "unit": "scan:collegian-1980-10-13/0003",
+  "extract": "sha256:3303a538f017a872347a868412dbc9c564e6882a29e2b0f7c6937c99495c8e11",
+  "size": "10x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [],
+ "reading": "sha256:402a406fb6a7efeec3615cb18f17faf2841a3e6d7a4fc1565f07928a8c8cc60e",
+ "key": {
+  "unit": "scan:collegian-1980-10-14/0001",
+  "extract": "sha256:37f047f0d4b56293b9cbe8f340320fb967ce58b2c6ac5e10dd0d2f6de248a6d1",
+  "solution_id": "collegian-1980-10-14/1#2",
+  "how": "recovered (answers column)"
+ },
+ "checks": {
+  "solution": [
+   "low-confidence letters at r1c1 r2c3 r3c13 r5c9 r7c9 r8c3 r8c14 r10c3 r10c9 r10c12"
+  ],
+  "asymmetric": 15,
+  "warnings": [
+   "Kept partial: its clues lined up for only 45% of its slots (the usual floor is 75%; the publication keeps grids from 40%). 7 clues not read, marked missing: A35 A39 A40 A41 A42 A43 A44. The grid's reading and the clue layout are suspect.",
+   "Grid isn't symmetric: 15 square pair(s) differ (r1c5/r10c11, r1c6/r10c10, r1c11/r10c5, r1c13/r10c3, r1c14/r10c2, r1c15/r10c1, r2c5/r9c11, r2c11/r9c5). Check those black squares against the scan, or confirm the design is asymmetric."
+  ]
+ },
+ "xd": "sha256:e02967dd3d6e5372f5b809f97cf8f0693912d8d6869e1e39f59b81ea0a48acf3"
+}

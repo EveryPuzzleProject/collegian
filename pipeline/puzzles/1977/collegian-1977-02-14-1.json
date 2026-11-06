@@ -1,0 +1,37 @@
+{
+ "id": "collegian-1977-02-14-1",
+ "aliases": [
+  "collegian1977-02-14-L001"
+ ],
+ "xdid": "collegian1977-02-14-L001",
+ "issue": "1977-02-14",
+ "date": "1977-02-14",
+ "grid": {
+  "unit": "scan:collegian-1977-02-14/0001",
+  "extract": "sha256:eb963352ddfbd551f84261dcd7a26cc386df1c8f440e9b0b8d7c21b7652a4bfe",
+  "size": "17x17",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [],
+ "reading": "sha256:e53ae1de16782d136de34f96411558fa53e655ad9c93a2ea8bd3695773161650",
+ "key": {
+  "unit": "scan:collegian-1977-02-14/0003",
+  "extract": "sha256:d6b23de4b3c9ffc1c92b204cc0d88795481bc01a785deae0bbfb2003eb130334",
+  "solution_id": "collegian-1977-02-14/3#0",
+  "how": "answers column, grids differ in 4 squares"
+ },
+ "checks": {
+  "solution": [
+   "puzzle and solution grids differ at r4c4 r4c14 r14c4 r14c14",
+   "low-confidence letters at r1c9 r6c11 r8c15 r16c5 r16c11 r17c5"
+  ],
+  "asymmetric": 0,
+  "warnings": [
+   "Kept partial: its clues lined up for only 64% of its slots (the usual floor is 75%; the publication keeps grids from 40%). 3 clues not read, marked missing: A29 D21 D47. The grid's reading and the clue layout are suspect.",
+   "Answer key as given by the folder's answers column (collegian-1977-02-14 leaf 3, collegian-1977-02-14/3#0) has different black squares from the puzzle (grids differ in 4 squares): puzzle ....#....###..... ....#....##...... .........#....... ........#........ ##.....#....#.... ......#....#..... .....#....#...### ....#............ ...#.........#... ............#.... ###...#....#..... .....#....#...... ....#....#.....## ........#........ .......#......... ......##....#.... .....###....#....; key ....#....###..... ....#....##...... .........#....... ...#....#....#... ##.....#....#.... ......#....#..... .....#....#...### ....#............ ...#.........#... ............#.... ###...#....#..... .....#....#...... ....#....#.....## ...#....#....#... .......#......... ......##....#.... .....###....#..... Check the row's pairing, or the grid reading."
+  ]
+ },
+ "xd": "sha256:cb4b9fe3bc8f1eeb60231bd89a1531bb50fdc7d5ffd8a0cc293d7cb35f0ba5d9"
+}

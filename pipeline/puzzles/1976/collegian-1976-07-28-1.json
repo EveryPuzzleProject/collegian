@@ -1,0 +1,27 @@
+{
+ "id": "collegian-1976-07-28-1",
+ "aliases": [
+  "collegian1976-07-28-L001"
+ ],
+ "xdid": "collegian1976-07-28-L001",
+ "issue": "1976-07-28",
+ "date": "1976-07-28",
+ "grid": {
+  "unit": "scan:collegian-1976-07-28/0001",
+  "extract": "sha256:56597025c86f2400240250053718954ca8c7f9788fe13e42f9ff45a775cb705a",
+  "size": "20x21",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [],
+ "reading": "sha256:e8ef357b60345a9b1e67b0663854d36237d40ad670a77df0b2d2de955680c876",
+ "checks": {
+  "solution": [],
+  "asymmetric": 58,
+  "warnings": [
+   "Grid isn't symmetric: 58 square pair(s) differ (r1c5/r20c17, r1c10/r20c12, r1c16/r20c6, r1c17/r20c5, r3c4/r18c18, r3c15/r18c7, r4c1/r17c21, r4c2/r17c20). Check those black squares against the scan, or confirm the design is asymmetric."
+  ]
+ },
+ "xd": "sha256:b4c500861fc6f2fc8f7af45276a88fd0a23b0dcc2b684b313e5e29220486ec0a"
+}

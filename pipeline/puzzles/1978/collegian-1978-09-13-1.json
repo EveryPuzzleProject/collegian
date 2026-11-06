@@ -1,0 +1,37 @@
+{
+ "id": "collegian-1978-09-13-1",
+ "aliases": [
+  "collegian1978-09-13-L001"
+ ],
+ "xdid": "collegian1978-09-13-L001",
+ "issue": "1978-09-13",
+ "date": "1978-09-13",
+ "grid": {
+  "unit": "scan:collegian-1978-09-13/0001",
+  "extract": "sha256:ca6cef9e7e493a1bfdc357f55afb92df5eea3fd2ac5683ea0c9aef445becbca6",
+  "size": "15x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [],
+ "reading": "sha256:ebb6d8a5e33e8af7200ee165c3926756fde3c682bd4baf9e8f3df725a62d1657",
+ "key": {
+  "unit": "scan:collegian-1978-09-14/0003",
+  "extract": "sha256:9a128f5fb9388ed50f3e24bab5019302708d80e6dde1820cadd1776cbaa94217",
+  "solution_id": "collegian-1978-09-14/3#0",
+  "how": "answers column, grids differ in 4 squares"
+ },
+ "checks": {
+  "solution": [
+   "puzzle and solution grids differ at r1c4 r1c15 r8c1 r8c11",
+   "3 unreadable solution letters",
+   "low-confidence letters at r1c3 r1c6 r3c1 r4c3 r7c5 r7c15 r9c4 r10c6 r10c11 r12c1 r15c13 r15c15"
+  ],
+  "asymmetric": 0,
+  "warnings": [
+   "Answer key as given by the folder's answers column (collegian-1978-09-14 leaf 3, collegian-1978-09-14/3#0) has different black squares from the puzzle (grids differ in 4 squares): puzzle ....#....#..... ....#....#..... ....#....#..... .......#....... #.......#...### ###...#........ .....#....#.... ...#.......#... ....#....#..... ........#...### ###...#.......# .......#....... .....#....#.... .....#....#.... .....#....#....; key ...##....#....# ....#....#..... ....#....#..... .......#....... #.......#...### ###...#........ .....#....#.... #..#......##... ....#....#..... ........#...### ###...#.......# .......#....... .....#....#.... .....#....#.... .....#....#..... Check the row's pairing, or the grid reading."
+  ]
+ },
+ "xd": "sha256:9f95316b55718179e5d57fbea7bc68045a36d3bcdc2cfec2d03bf44b496d6ee8"
+}

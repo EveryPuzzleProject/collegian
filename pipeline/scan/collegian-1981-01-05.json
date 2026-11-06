@@ -1,0 +1,58 @@
+{
+ "scan:collegian-1981-01-05/0001": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:fc89f26ead1e50455d3469988041c95a6ed3708bdeb8017d876e93d57a337b7b",
+    "layout": "sha256:c92746f5377c85d9638bb4ee4fd7b23643a99c093f1321874aed06e763fb2750",
+    "ocr": "sha256:8e4645248d521c2557a98c75ab0a73361e5cffe2b8633f86510b691ba8cc061c"
+   },
+   "made": "2026-11-06T21:04:11+00:00",
+   "output": "sha256:fe68333d68ce7205dc3a298083c4ae3e9aaf607e8b564c7270d672243b8130f8",
+   "settings": {
+    "keep_partial": 0.4,
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/15"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-11-06T21:04:06+00:00",
+   "output": "sha256:fc89f26ead1e50455d3469988041c95a6ed3708bdeb8017d876e93d57a337b7b",
+   "settings": {
+    "source": "scan"
+   },
+   "stage": "image",
+   "version": "image/1"
+  },
+  "layout": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:fc89f26ead1e50455d3469988041c95a6ed3708bdeb8017d876e93d57a337b7b"
+   },
+   "made": "2026-11-06T21:04:06+00:00",
+   "output": "sha256:c92746f5377c85d9638bb4ee4fd7b23643a99c093f1321874aed06e763fb2750",
+   "settings": {
+    "max_grids": 12
+   },
+   "stage": "layout",
+   "version": "layout/10"
+  },
+  "ocr": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:fc89f26ead1e50455d3469988041c95a6ed3708bdeb8017d876e93d57a337b7b"
+   },
+   "made": "2026-11-06T21:04:09+00:00",
+   "output": "sha256:8e4645248d521c2557a98c75ab0a73361e5cffe2b8633f86510b691ba8cc061c",
+   "settings": {
+    "engine": "rapidocr",
+    "upscale_below": 2400
+   },
+   "stage": "ocr",
+   "version": "ocr/4"
+  }
+ }
+}

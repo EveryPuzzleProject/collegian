@@ -1,0 +1,36 @@
+{
+ "id": "collegian-1979-12-03-1",
+ "aliases": [
+  "collegian1979-12-03-L003"
+ ],
+ "xdid": "collegian1979-12-03-L003",
+ "issue": "1979-12-03",
+ "date": "1979-12-03",
+ "grid": {
+  "unit": "scan:collegian-1979-12-03/0003",
+  "extract": "sha256:14c9e21f87a20b796e3f696a2557ae66e4a746d87d4d2e5a446d1cf5905684a6",
+  "size": "13x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [],
+ "reading": "sha256:f4e4f51372a762653e78d96de6c9dc39bbd3a5b8b26b3d980f7cc6210fbbbd47",
+ "key": {
+  "unit": "scan:collegian-1979-12-03/0001",
+  "extract": "sha256:7ec841dac5fce7d27584b4bda415571b418ef9234c2d8a87af99b7bf1378bd45",
+  "solution_id": "collegian-1979-12-03/1#0@r0c0:13x15",
+  "how": "answers column, grids agree (part of a merged answer grid)"
+ },
+ "checks": {
+  "solution": [
+   "1 unreadable solution letters",
+   "low-confidence letters at r1c5 r1c7 r1c10 r1c15 r4c4 r6c2 r7c14 r8c12 r9c8 r10c6 r10c8 r12c1 r12c8 r13c15"
+  ],
+  "asymmetric": 29,
+  "warnings": [
+   "Grid isn't symmetric: 29 square pair(s) differ (r1c8/r13c8, r2c5/r12c11, r2c8/r12c8, r2c10/r12c6, r3c1/r11c15, r3c2/r11c14, r3c3/r11c13, r3c4/r11c12). Check those black squares against the scan, or confirm the design is asymmetric."
+  ]
+ },
+ "xd": "sha256:c22d90cb512a60be67398614e8e736a493d483e4958e2ab8418f33eec480af50"
+}

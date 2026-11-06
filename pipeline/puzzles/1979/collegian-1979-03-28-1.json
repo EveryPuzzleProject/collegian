@@ -1,0 +1,36 @@
+{
+ "id": "collegian-1979-03-28-1",
+ "aliases": [
+  "collegian1979-03-28-L003"
+ ],
+ "xdid": "collegian1979-03-28-L003",
+ "issue": "1979-03-28",
+ "date": "1979-03-28",
+ "grid": {
+  "unit": "scan:collegian-1979-03-28/0003",
+  "extract": "sha256:6305a156e1e3d38e3094d3cb37a29d15f28ad7ddc398dbb7d29a5f7c1de5a30d",
+  "size": "15x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [],
+ "reading": "sha256:0a8f5561f3d38dc3b3fc630aa9567f59da09b7293b64834d2fb542cbdb004dc4",
+ "key": {
+  "unit": "scan:collegian-1979-03-29/0001",
+  "extract": "sha256:70b6f0d4453bb465d8c1d76b573ef7d2505f90ff694818a032bb28f94e5df8c0",
+  "solution_id": "collegian-1979-03-29/1#0",
+  "how": "answers column, grids agree"
+ },
+ "checks": {
+  "solution": [
+   "2 unreadable solution letters",
+   "low-confidence letters at r2c11 r5c5 r6c11 r7c10 r7c13 r8c12 r10c12 r11c5"
+  ],
+  "asymmetric": 0,
+  "warnings": [
+   "Kept partial: its clues lined up for only 74% of its slots (the usual floor is 75%; the publication keeps grids from 40%). 12 clues not read, marked missing: A26 D1 D2 D3 D4 D5 D6 D7 D8 D9 D10 D11. The grid's reading and the clue layout are suspect."
+  ]
+ },
+ "xd": "sha256:182839ee5d1b009724324f86c38e467aad46cf20c151a3b195cde2291ffbcdec"
+}

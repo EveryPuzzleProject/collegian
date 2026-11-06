@@ -1,0 +1,36 @@
+{
+ "id": "collegian-1981-05-11-1",
+ "aliases": [
+  "collegian1981-05-11-L003"
+ ],
+ "xdid": "collegian1981-05-11-L003",
+ "issue": "1981-05-11",
+ "date": "1981-05-11",
+ "grid": {
+  "unit": "scan:collegian-1981-05-11/0003",
+  "extract": "sha256:9bd21d3a8624ea6ed4cc748f333e899ff10216e24ede97cca30bdd39a573d0bf",
+  "size": "15x13",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [],
+ "reading": "sha256:8e18f00aa70fa34bd8c95b8d2febbbf1f4eeca5a5567245d94e1f2915bf91f8d",
+ "key": {
+  "unit": "scan:collegian-1981-05-12/0001",
+  "extract": "sha256:ea568477b85daced027fd67811b689b8fd2df6a96c5c0f2d677e4d593e9fa60d",
+  "solution_id": "collegian-1981-05-12/1#0@r0c0:15x13",
+  "how": "answers column, grids agree (part of a merged answer grid)"
+ },
+ "checks": {
+  "solution": [
+   "low-confidence letters at r2c6 r4c12 r5c6 r7c7 r7c11 r8c10 r8c13 r9c9 r11c7 r14c13"
+  ],
+  "asymmetric": 28,
+  "warnings": [
+   "Kept partial: its clues lined up for only 55% of its slots (the usual floor is 75%; the publication keeps grids from 40%). 6 clues not read, marked missing: A12 A13 A25 A30 A31 D24. The grid's reading and the clue layout are suspect.",
+   "Grid isn't symmetric: 28 square pair(s) differ (r1c3/r15c11, r1c5/r15c9, r1c9/r15c5, r1c11/r15c3, r2c3/r14c11, r2c5/r14c9, r2c9/r14c5, r2c11/r14c3). Check those black squares against the scan, or confirm the design is asymmetric."
+  ]
+ },
+ "xd": "sha256:e5e147acdeeb6d784d6bb3d4ae1264b3c61d9c0fdb796dc2c3aca433d510772f"
+}

@@ -1,0 +1,7 @@
+# The Collegian: settings for xword-ocr (docs/fixing.md in xword-ocr).
+
+[ocr]
+# The scans are often poor (warped at the page edges, faint rules, parts covered): a puzzle whose
+# clues line up for two in five slots is kept, its missing clues marked, for reconstruction on the
+# review site, rather than turned down (Alex, 2026-11-06).
+keep_partial = 0.4

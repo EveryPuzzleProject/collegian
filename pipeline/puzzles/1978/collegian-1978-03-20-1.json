@@ -1,0 +1,39 @@
+{
+ "id": "collegian-1978-03-20-1",
+ "aliases": [
+  "collegian1978-03-20-L001"
+ ],
+ "xdid": "collegian1978-03-20-L001",
+ "issue": "1978-03-20",
+ "date": "1978-03-20",
+ "grid": {
+  "unit": "scan:collegian-1978-03-20/0001",
+  "extract": "sha256:e68fdb90d5c63b1c49a7566cf8738edc1ce078c35a581a7eaeb14030a1651d8f",
+  "size": "15x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [],
+ "reading": "sha256:76d9db05d81e2ec1e4f5a3751b0a5fd6852b8e1c1f7d2f25efd236de67a3ec27",
+ "key": {
+  "unit": "scan:collegian-1978-03-20/0003",
+  "extract": "sha256:4b851e7b6ccb63671620db623a159244b96e57350a8c185a43f242578e37a058",
+  "solution_id": "collegian-1978-03-20/3#0",
+  "how": "answers column, grids differ in 2 squares"
+ },
+ "checks": {
+  "solution": [
+   "puzzle and solution grids differ at r5c15 r6c15",
+   "1 unreadable solution letters",
+   "low-confidence letters at r5c14 r6c2 r6c5 r6c8 r6c12 r11c2 r14c3 r15c2 r15c15"
+  ],
+  "asymmetric": 2,
+  "warnings": [
+   "Kept partial: its clues lined up for only 57% of its slots (the usual floor is 75%; the publication keeps grids from 40%). 18 clues not read, marked missing: A32 D11 D12 D29 D30 D31 D33 D36 D37 D39 D40 D41 .... The grid's reading and the clue layout are suspect.",
+   "Answer key as given by the folder's answers column (collegian-1978-03-20 leaf 3, collegian-1978-03-20/3#0) has different black squares from the puzzle (grids differ in 2 squares): puzzle ....#....##.... ....#....#..... ....#....#..... ............... ###....#....... ......#.....##. .....#......... ....#.....#.... .........#..... ###.....#...... #......#....### ............... .....#....#.... .....#....#.... ....##....#....; key ....#....##.... ....#....#..... ....#....#..... ............... ###....#......# ......#.....### .....#......... ....#.....#.... .........#..... ###.....#...... #......#....### ............... .....#....#.... .....#....#.... ....##....#..... Check the row's pairing, or the grid reading.",
+   "Grid isn't symmetric: 2 square pair(s) differ (r5c15/r11c1, r6c15/r10c1). Check those black squares against the scan, or confirm the design is asymmetric."
+  ]
+ },
+ "xd": "sha256:9179db34d1715a2c09365fe166776ac3778f58866cd4ffe1f8b697dbbf3c4f24"
+}

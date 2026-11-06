@@ -1,0 +1,39 @@
+{
+ "id": "collegian-1978-09-28-1",
+ "aliases": [
+  "collegian1978-09-28-L001"
+ ],
+ "xdid": "collegian1978-09-28-L001",
+ "issue": "1978-09-28",
+ "date": "1978-09-28",
+ "grid": {
+  "unit": "scan:collegian-1978-09-28/0001",
+  "extract": "sha256:7172f2ee6e2989e485e7e7d88e3991990eced9c182da000f57ad815bdb541b47",
+  "size": "15x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [],
+ "reading": "sha256:ccfec716cb65a832bc6f7b0bda1eb9e8347345869e648e1e8d81fab0d4d4f5b2",
+ "key": {
+  "unit": "scan:collegian-1978-09-29/0003",
+  "extract": "sha256:635746619d98f3605291a9ce7ff06a8cce14dcbe56850b45da61fb2e65b7017e",
+  "solution_id": "collegian-1978-09-29/3#0",
+  "how": "answers column, grids differ in 4 squares"
+ },
+ "checks": {
+  "solution": [
+   "puzzle and solution grids differ at r5c1 r6c1 r7c1 r11c1",
+   "4 unreadable solution letters",
+   "low-confidence letters at r1c1 r4c1 r6c5 r6c12 r9c1 r10c1 r10c4 r11c3 r11c5 r12c1 r14c1 r14c9 r15c8 r15c14"
+  ],
+  "asymmetric": 4,
+  "warnings": [
+   "Kept partial: its clues lined up for only 45% of its slots (the usual floor is 75%; the publication keeps grids from 40%). 36 clues not read, marked missing: A36 A38 A39 A42 A43 A44 A45 A47 A48 A49 A51 A55 .... The grid's reading and the clue layout are suspect.",
+   "Answer key as given by the folder's answers column (collegian-1978-09-29 leaf 3, collegian-1978-09-29/3#0) has different black squares from the puzzle (grids differ in 4 squares): puzzle ....###...#.... .....#....#.... .....#......... ...#....#...... .........#...## .##...#...#.... .....#.....#... ............... ...#.....#....# ....#...#...### .#...#........# ......#....#... .........#..... ....#....#..... ....#...###....; key ....###...#.... .....#....#.... .....#......... ...#....#...... #........#...## ###...#...#.... #....#.....#... ............... ...#.....#....# ....#...#...### ##...#........# ......#....#... .........#..... ....#....#..... ....#...###..... Check the row's pairing, or the grid reading.",
+   "Grid isn't symmetric: 4 square pair(s) differ (r5c1/r11c15, r5c15/r11c1, r6c1/r10c15, r7c1/r9c15). Check those black squares against the scan, or confirm the design is asymmetric."
+  ]
+ },
+ "xd": "sha256:f0ace743097b0f52acd24a89c087336ce7fd09455cec65d7dac5630846416c82"
+}

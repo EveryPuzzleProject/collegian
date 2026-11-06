@@ -1,0 +1,27 @@
+{
+ "id": "collegian-1977-09-15-1",
+ "aliases": [
+  "collegian1977-09-15-L001"
+ ],
+ "xdid": "collegian1977-09-15-L001",
+ "issue": "1977-09-15",
+ "date": "1977-09-15",
+ "grid": {
+  "unit": "scan:collegian-1977-09-15/0001",
+  "extract": "sha256:fbc060aa9b44f4a1d329173ed39e27b1cd0b4356f030c7cbdf9fe470b865c492",
+  "size": "17x17",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [],
+ "reading": "sha256:3a6418d51aadbbcaaf2c76f67252fdf6e13151850571d0a1828207e52d735fd9",
+ "checks": {
+  "solution": [],
+  "asymmetric": 0,
+  "warnings": [
+   "Kept partial: its clues lined up for only 44% of its slots (the usual floor is 75%; the publication keeps grids from 40%). 51 clues not read, marked missing: A1 A5 A10 A16 A17 A18 A19 A20 A21 A22 A24 A26 .... The grid's reading and the clue layout are suspect."
+  ]
+ },
+ "xd": "sha256:508c9222fc2059366cbb8f4985a6e563b9ba712d706ab04ec6c15d0ce71e955c"
+}
