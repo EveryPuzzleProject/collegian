@@ -136,43 +136,49 @@ def main() -> None:
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Daily Collegian crosswords</title>
 <meta name="description" content="Every Puzzle Project: an index of Mike Shenk's daily crosswords in Penn State's Daily Collegian, 1976–1981.">
+<link rel="stylesheet" href="https://everypuzzleproject.org/site.css">
 <style>
-:root {{ --bg:#fbfaf7; --fg:#1d1d1b; --muted:#6b6a65; --line:#e3e0d8; --card:#fff; --accent:#8a1c1c; }}
-@media (prefers-color-scheme: dark) {{ :root:not([data-theme="light"]) {{ --bg:#161614; --fg:#ecebe6; --muted:#a3a19a; --line:#34332f; --card:#1f1f1c; --accent:#e07a6a; }} }}
-:root[data-theme="dark"] {{ --bg:#161614; --fg:#ecebe6; --muted:#a3a19a; --line:#34332f; --card:#1f1f1c; --accent:#e07a6a; }}
+h1, h2 {{ font-family:inherit; font-weight:bold; line-height:inherit }} .epp-header .wrap {{ max-width:960px }}
+:root {{ --pg-bg:#fbfaf7; --fg:#1d1d1b; --pg-muted:#6b6a65; --pg-line:#e3e0d8; --card:#fff; --pg-accent:#8a1c1c; }}
+@media (prefers-color-scheme: dark) {{ :root:not([data-theme="light"]) {{ --pg-bg:#161614; --fg:#ecebe6; --pg-muted:#a3a19a; --pg-line:#34332f; --card:#1f1f1c; --pg-accent:#e07a6a; }} }}
+:root[data-theme="dark"] {{ --pg-bg:#161614; --fg:#ecebe6; --pg-muted:#a3a19a; --pg-line:#34332f; --card:#1f1f1c; --pg-accent:#e07a6a; }}
 * {{ box-sizing:border-box }}
-body {{ margin:0; background:var(--bg); color:var(--fg); font:16px/1.55 Georgia, "Times New Roman", serif }}
+body {{ margin:0; background:var(--pg-bg); color:var(--fg); font:16px/1.55 Georgia, "Times New Roman", serif }}
 main {{ max-width:960px; margin:0 auto; padding:24px 16px 64px }}
-nav.top {{ font:14px system-ui, sans-serif; display:flex; justify-content:space-between; gap:12px; flex-wrap:wrap }}
 h1 {{ font-size:2.1rem; line-height:1.2; margin:20px 0 10px }}
 h2 {{ margin:40px 0 10px; font-size:1.35rem; border-bottom:2px solid var(--fg); padding-bottom:4px }}
-h3 {{ margin:24px 0 8px; font-size:1.1rem }} h3 small {{ font:13px system-ui, sans-serif; color:var(--muted); margin-left:6px }}
-a {{ color:var(--accent) }} .muted {{ color:var(--muted) }} .lede {{ font-size:1.1rem; max-width:44em }}
-.sans {{ font-family:system-ui, sans-serif }} .note {{ font:14px system-ui, sans-serif; color:var(--muted); max-width:52em }}
+h3 {{ margin:24px 0 8px; font-size:1.1rem }} h3 small {{ font:13px system-ui, sans-serif; color:var(--pg-muted); margin-left:6px }}
+a {{ color:var(--pg-accent) }} .muted {{ color:var(--pg-muted) }} .lede {{ font-size:1.1rem; max-width:44em }}
+.sans {{ font-family:system-ui, sans-serif }} .note {{ font:14px system-ui, sans-serif; color:var(--pg-muted); max-width:52em }}
 .stats {{ display:flex; flex-wrap:wrap; gap:12px 36px; margin:16px 0 0 }}
-.stat {{ font:700 40px/1 Georgia, serif }} .stat small {{ display:block; font:500 14px system-ui, sans-serif; color:var(--muted); margin-top:6px }}
-.bar {{ display:flex; gap:2px; height:16px; border-radius:8px; overflow:hidden; background:var(--line); margin:18px 0 10px }}
+.stat {{ font:700 40px/1 Georgia, serif }} .stat small {{ display:block; font:500 14px system-ui, sans-serif; color:var(--pg-muted); margin-top:6px }}
+.bar {{ display:flex; gap:2px; height:16px; border-radius:8px; overflow:hidden; background:var(--pg-line); margin:18px 0 10px }}
 .bar span {{ display:block; height:100% }}
-.legend {{ display:flex; flex-wrap:wrap; gap:6px 18px; font:14px system-ui, sans-serif; color:var(--muted) }}
+.legend {{ display:flex; flex-wrap:wrap; gap:6px 18px; font:14px system-ui, sans-serif; color:var(--pg-muted) }}
 .legend b {{ color:var(--fg); font-weight:600 }}
 .sw {{ display:inline-block; width:12px; height:12px; border-radius:2px; margin-right:6px; vertical-align:-1px }}
 {states_css}
-.none {{ box-shadow:inset 0 0 0 1px var(--line) }}
-.gap {{ background:repeating-linear-gradient(135deg, var(--muted) 0 1.5px, transparent 1.5px 4px); opacity:.55 }}
+.none {{ box-shadow:inset 0 0 0 1px var(--pg-line) }}
+.gap {{ background:repeating-linear-gradient(135deg, var(--pg-muted) 0 1.5px, transparent 1.5px 4px); opacity:.55 }}
 .months {{ display:flex; flex-wrap:wrap; gap:14px 14px }}
 .month {{ width:62px }}
-.mh {{ font:600 13px system-ui, sans-serif; margin-bottom:4px }} .mh small {{ display:block; white-space:nowrap; font-weight:400; font-size:11px; color:var(--muted) }}
+.mh {{ font:600 13px system-ui, sans-serif; margin-bottom:4px }} .mh small {{ display:block; white-space:nowrap; font-weight:400; font-size:11px; color:var(--pg-muted) }}
 .cal {{ display:grid; grid-template-columns:repeat(5, 10px); grid-auto-rows:10px; gap:3px }}
 .day {{ display:block; border-radius:2px }}
 a.day:hover, a.day:focus {{ outline:2px solid var(--fg); outline-offset:1px }}
 .exceptions {{ padding-left:20px; font-family:system-ui, sans-serif; font-size:15px }} .exceptions li + li {{ margin-top:10px }}
 .exceptions .dates {{ font-weight:600 }}
-.cta {{ background:var(--card); border:1px solid var(--line); border-left:4px solid var(--accent); padding:14px 20px }}
+.cta {{ background:var(--card); border:1px solid var(--pg-line); border-left:4px solid var(--pg-accent); padding:14px 20px }}
 .cta ul, .next {{ margin:0; padding-left:20px }} .cta li + li, .next li + li {{ margin-top:8px }}
-footer {{ margin-top:48px; font:13px system-ui, sans-serif; color:var(--muted) }}
+footer {{ margin-top:48px; font:13px system-ui, sans-serif; color:var(--pg-muted) }}
 @media (max-width:560px) {{ h1 {{ font-size:1.6rem }} .stat {{ font-size:32px }} .months {{ gap:12px 10px }} }}
-</style></head><body><main>
-<nav class="top"><a href="{HOME}">← Every Puzzle Project</a><a href="{REPO}">EveryPuzzleProject/collegian on GitHub</a></nav>
+</style></head><body>
+<header class="epp-header"><div class="wrap">
+  <a href="https://everypuzzleproject.org/">Every Puzzle Project</a>
+  <span class="epp-page">The Daily Collegian</span>
+  <nav><a href="https://github.com/EveryPuzzleProject/collegian">Repo</a></nav>
+</div></header>
+<main>
 
 <h1>Mike Shenk's crosswords in <i>The Daily Collegian</i>, {first_d.year}–{last_d.year}</h1>
 <p class="lede">Mike Shenk, who later edited the <i>Wall Street Journal</i> crossword, was a Penn State student when the
