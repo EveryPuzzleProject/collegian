@@ -1,0 +1,10 @@
+{
+ "_about": "The Collegian harvest's text step runs (xword-ocr harvests/collegian-fit): which one is current (the batch page opens on it, the import reads it) and what each is.",
+ "current": "run1",
+ "runs": {
+  "run1": {
+   "status": "current",
+   "what": "the first end-to-end slice (2026-11-06): every puzzle the collegian-fit harvest read (797 issues, partial clue lists and poor keys included), through the text step on Opus, proof packets, triage and AI proof review"
+  }
+ }
+}
