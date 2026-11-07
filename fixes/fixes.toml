@@ -5,3 +5,35 @@
 # clues line up for two in five slots is kept, its missing clues marked, for reconstruction on the
 # review site, rather than turned down (Alex, 2026-11-06).
 keep_partial = 0.4
+
+# The pages are the Penn State newspaper archive's page images of The Daily Collegian, described
+# in collegian-scans/pages.tsv (xword-ocr docs/sources.md): for each issue a whole page, the
+# puzzle crop at native resolution (crop_of), and the answer key's crop with the puzzle it answers
+# named in the `answers` column (the pairing was made by a person on blitz's /answers view, so the
+# harvest uses it as given and reports any disagreement). An issue is a key like
+# collegian-1976-03-11; its leaves are its rows in pages.tsv, in order.
+#
+# Clues, answers and headers are never typed in here: a value the pipeline can't read goes to the
+# exceptions queue with a diagnosis. Decisions that affect how a puzzle is transcribed go in its
+# `note`, which reaches the xd and the proof page.
+#
+# Puzzle fixes are keyed by the puzzle's id (shown on each proof page):
+#   [puzzle."collegian1976-03-11-L001"]
+#   note = "..."
+#
+# Page hints are keyed by issue and leaf:
+#   [page."collegian-1976-03-11".1]
+#   include = true
+
+# The exceptions a person recorded while building the index (collegian/exceptions.tsv).
+
+# 1976-03-22 "Nazism": the black squares form a swastika and the clues are themed on Nazi
+# Germany. Alex (2026-11-05): keep the title, and flag the puzzle when it is brought into gxd or
+# crossref. The note carries the flag into the xd and onto the proof page.
+[puzzle."collegian1976-03-22-L001"]
+note = "FLAG ON IMPORT: the grid's black squares form a swastika and the clues are themed on Nazi Germany (33A 'May 7, 1945, for Nazi Germany'). Deliberate theme, intent unknown; title kept as printed. Flag this puzzle when bringing it into gxd or crossref (Alex, 2026-11-05, collegian/exceptions.tsv)."
+
+# 1978-01-20 front page: a reprint of the grid left out of the 1978-01-19 paper, with an apology
+# and no clues ("We can't think of anything else you could possibly need"). Its answers are in the
+# 1978-01-19 classifieds (pages.tsv names that key for this crop). The harvest keeps the grid as a
+# clueless stub (collegian1978-01-20-L003), which Alex wants kept, dated 1978-01-19 at export.
