@@ -8,11 +8,6 @@ transcription against it. The publication's rules that code applies (no title fr
 
 Each note: what the paper does, how we transcribe it, and where it was settled.
 
-**Draft, 2026-11-11:** the first note is the owner's rule of 2026-11-11 as the AI proof
-reviewer's instructions have it (xword-ocr `proofreview.INSTRUCTIONS`, `docs/ship-gate.md`), not
-a new rule for this paper; what counts as a plain typo and what stays is in the wording of blitz
-`publications/REVIEW.md`. To be confirmed by the project manager before it is merged.
-
 - **Printer's typos in clues and headers.** The Collegian's clues were set quickly and carry many plain
   typos; run2's AI review asked about one on 38 puzzles and nothing else (manager's report
   2026-11-10, kind 4: "Wahs out", "Explosive mountian"). Two kinds of change are kept apart.
@@ -21,9 +16,13 @@ a new rule for this paper; what counts as a plain typo and what stays is in the 
   recorded and never edited into our text: the xd here stays as printed, and the correction is
   proposed in review (the word as printed, the word meant, the crop as evidence) and applied at
   the gxd export, as gxd's editorial (the corpus's rule, EDITORIAL.md: obvious mistakes are
-  corrected to what was meant; nothing the publisher did on purpose is changed).
-- **What is a plain typo.** A wrong, extra or missing letter set cleanly in type, where only
-  one word can have been meant ("cockail" for cocktail).
+  corrected to what was meant; nothing the publisher did on purpose is changed). (Alex,
+  2026-11-11.)
+- **What is a plain typo.** A wrong, extra, missing or transposed letter set cleanly in type,
+  or a small word printed twice, where only one word can have been meant: the answer and the
+  rest of the clue bear it out ("cockail" for cocktail). Not a plain typo, and a question for a
+  person: a clue where more than one word could have been meant or words are missing, and a
+  clue that doesn't answer its slot at all (another clue's text, a constructor's slip).
 - **What the publisher did on purpose stays.** Puzzles have gimmicks (missing or extra letters,
   pun spellings, several letters in one square, dialect), so an odd spelling may be the point:
   check whether the answer grid only works with it. When you can't tell a typo from wordplay,
@@ -36,3 +35,4 @@ a new rule for this paper; what counts as a plain typo and what stays is in the 
   keys are small and, from 1979, typewritten (E reads as B, F as P: `fixes/fixes.toml`,
   `key_entries`), so a letter the crossings contradict is far more often a misreading than a
   misprint: only a letter the crop shows plainly, with both crossing clues against it, is one.
+  (Alex, 2026-11-11.)
