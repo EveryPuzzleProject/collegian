@@ -13,7 +13,7 @@ reviewer's instructions have it (xword-ocr `proofreview.INSTRUCTIONS`, `docs/shi
 a new rule for this paper; what counts as a plain typo and what stays is in the wording of blitz
 `publications/REVIEW.md`. To be confirmed by the project manager before it is merged.
 
-- **Printer's typos in clues.** The Collegian's clues were set quickly and carry many plain
+- **Printer's typos in clues and headers.** The Collegian's clues were set quickly and carry many plain
   typos; run2's AI review asked about one on 38 puzzles and nothing else (manager's report
   2026-11-10, kind 4: "Wahs out", "Explosive mountian"). Two kinds of change are kept apart.
   A reading fix, where the scan or the OCR was bad, makes our text match the print: it is
@@ -30,7 +30,9 @@ a new rule for this paper; what counts as a plain typo and what stays is in the 
   propose nothing, say it's a close call, and a person decides.
 - **Only propose what you can see in the scan.** A doubtful word with no crop to check is a
   question for a person.
-- **A letter the answer key misprints** is handled the same way: the grid keeps the printed
-  letter, the right one is proposed. The keys are small and, from 1979, typewritten (E reads as
-  B, F as P: `fixes/fixes.toml`, `key_entries`), so a letter the crossings contradict is far
-  more often a misreading than a misprint: only a letter the crop shows plainly is a misprint.
+- **A letter the answer key misprints** is different: it is corrected in review, and recorded as
+  a correction of the print, not a reading fix (the square, the letter the key printed, the
+  letter it was corrected to, the key's crop as evidence), so the xd carries a note of it. The
+  keys are small and, from 1979, typewritten (E reads as B, F as P: `fixes/fixes.toml`,
+  `key_entries`), so a letter the crossings contradict is far more often a misreading than a
+  misprint: only a letter the crop shows plainly, with both crossing clues against it, is one.
