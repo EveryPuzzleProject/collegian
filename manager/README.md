@@ -34,8 +34,8 @@ the dev lane.
 
 | run | state | code | where |
 |---|---|---|---|
-| run1 | current: live on the review site | 2026-11-06 | `blitz-work/collegian-run1-backup` |
-| run2 | run 2026-11-10, not published | xword-ocr 422eace, collegian 522febd, blitz 62a6072 | `blitz-work/runs/collegian` (`textstep/run2`, `proof/run2`, `triage/run2`, `proofreview/run2`) |
+| run1 | earlier; live on the review site until run2 is published | 2026-11-06 | `blitz-work/collegian-run1-backup` |
+| run2 | current in the registry; run 2026-11-10, prepared for publishing 2026-11-11 (`manager/2026-11-11.md` has the commands), not published | xword-ocr 422eace, collegian 522febd; ship record on blitz c7eb1be | `blitz-work/runs/collegian` (`textstep/run2`, `proof/run2`, `triage/run2`, `proofreview/run2`, `site-batch/collegian-1976-81`: the batch snapshot with its `ship.json`) |
 
 Run2's worktrees, on merged main of each repo, all on a branch named `claude/collegian-run2-run`:
 `xword-ocr/.claude/worktrees/collegian-run2-run` (run every `uv run xword-ocr` from here),
@@ -45,8 +45,8 @@ this repo's branch is merged.
 
 ## Standing terms (owner, 2026-11-10)
 
-- An AI reviewer's Ready with a passing ship check counts as the one Ready needed to ship. This repo has
-  no `fixes/ship-rule.json` yet, so pass `--ai-ready both` to `blitz ship` until the owner approves one.
+- An AI reviewer's Ready with a passing ship check counts as the one Ready needed to ship. It is written
+  down in `fixes/ship-rule.json` (2026-11-11: `ai_ready: both`, owner `oops6498`, holds `clue-typed`).
 - Fixes apply forward; nothing is back-filled. The scan is the proof.
 - The batch page asks people for held-on-a-question first.
 - The untitled rule starts 1977-12-01. The 75 no-key-printed puzzles stay held until the owner decides
@@ -67,8 +67,13 @@ this repo's branch is merged.
 - Never print `textstep-status` unfiltered: it lists every puzzle.
 - `blitz ship ... --record` writes only `pipeline/ship/<batch>.json` (status, nothing shipped);
   `--no-site` reads the ledger alone.
-- A Not ready in the ledger stands across runs (run1's AI review still holds 151 puzzles in run2's
-  record); see the 2026-11-10 report, kind 2.
+- Since blitz #85 an AI reviewer's Not ready on an earlier version of a puzzle is stale ("not checked
+  yet"); 70 of run1's still stand in run2's record.
+- From a blitz worktree, always give `site-publish-batch --out` in full (inside the run folder): its
+  default lands inside the blitz checkout. The snapshot takes about 13 minutes and needs a running
+  `xword-ocr watch` on the run folder; `--keep` uploads a snapshot already made.
+- In PowerShell `$R` and `$r` are one variable: don't name the run folder `$R` in a script that also
+  uses `$r`.
 
 ## Next week, from the 2026-11-10 report
 
