@@ -110,5 +110,21 @@
    "stage": "keysearch",
    "version": "keysearch/2"
   }
+ },
+ "scan:collegian-1978-02-17/0003#key-a6e9aed02999ap": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:9fce46754f8fee36c2c4726ed4cb6b0e6f40a082eb209d0838db0ee31c684b5c"
+   },
+   "made": "2026-11-10T22:25:27+00:00",
+   "output": "sha256:254fd25d3da0768c3b95db3b94d20e708f0571e1b082807d87c70ba0c0c1451f",
+   "settings": {
+    "given": true,
+    "only_pointed": true
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
  }
 }

@@ -6,8 +6,9 @@
     "image": "sha256:c04058bcda978f866feb0a3d8274b66e49d1c21669852608b5d0fe2b4878ca8c",
     "layout": "sha256:ebe7cd70f6da079290ce5a6749d58e4122976f8211eeddd79c40f0730dc62ea1"
    },
-   "made": "2026-11-06T21:05:23+00:00",
-   "output": "sha256:80961d9ddd317728c2fb65cd4421e488eed7a95c6c7001253a2ebdab94f69eb6",
+   "made": "2026-11-10T22:12:27+00:00",
+   "note": "answer-grid letters re-read (reread-letters)",
+   "output": "sha256:2d75b71866803412a29acf77301fe5e7e954c8ec65402ca9456eb69634f7d7a9",
    "settings": {
     "keep_partial": 0.4,
     "sure_swaps": []
@@ -38,6 +39,20 @@
    },
    "stage": "layout",
    "version": "layout/10"
+  },
+  "ocr": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:c04058bcda978f866feb0a3d8274b66e49d1c21669852608b5d0fe2b4878ca8c"
+   },
+   "made": "2026-11-10T22:43:05+00:00",
+   "output": "sha256:db62dd56276bb66be469c9f7d8df8441270b31e33dc3abc8c101c74a449b36b2",
+   "settings": {
+    "engine": "rapidocr",
+    "upscale_below": 2400
+   },
+   "stage": "ocr",
+   "version": "ocr/4"
   }
  },
  "scan:collegian-1981-02-23/0001#key-10e585c46bf6a": {
@@ -55,6 +70,22 @@
    "version": "keysearch/2"
   }
  },
+ "scan:collegian-1981-02-23/0001#key-10e585c46bf6ap": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:c04058bcda978f866feb0a3d8274b66e49d1c21669852608b5d0fe2b4878ca8c"
+   },
+   "made": "2026-11-10T22:43:11+00:00",
+   "output": "sha256:bb83214c2ffa6fc4c43718db503a77ec237ebae724fa13493014f308484af93c",
+   "settings": {
+    "given": true,
+    "only_pointed": true
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
  "scan:collegian-1981-02-23/0002": {
   "extract": {
    "code": "xword-ocr 0.1.0",
@@ -63,8 +94,9 @@
     "layout": "sha256:a833d2f13c7e9b9027b9c4df98fa9220532537fc14ac0a9e8fd062ae9f9edcb9",
     "ocr": "sha256:181555bdf47c9e65dddf237dafbba4f612b95d418e1a04cc88c22ba574f252d9"
    },
-   "made": "2026-11-06T21:05:30+00:00",
-   "output": "sha256:d790eb64b7eb3c94c7cd0e784291a3c95a40edfae5e0aa42ade47a64924adc75",
+   "made": "2026-11-10T22:12:32+00:00",
+   "note": "answer-grid letters re-read (reread-letters)",
+   "output": "sha256:75e50ecac7e052a5d6295aeea8333b00573d61713e54d6bbf782c5507d525498",
    "settings": {
     "keep_partial": 0.4,
     "sure_swaps": []

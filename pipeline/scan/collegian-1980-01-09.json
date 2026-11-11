@@ -55,6 +55,22 @@
    "version": "keysearch/2"
   }
  },
+ "scan:collegian-1980-01-09/0001#key-035539660ff7ap": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:24afa5e517b7ea33f514e8c3095f0e0553b64aefc491a57efc4f060de3162d35"
+   },
+   "made": "2026-11-10T22:34:45+00:00",
+   "output": "sha256:2851cf0e63d88d993281ad8a8db4a63fbd931f6a28993df2f855a27ac2d9ec51",
+   "settings": {
+    "given": true,
+    "only_pointed": true
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
  "scan:collegian-1980-01-09/0003": {
   "extract": {
    "code": "xword-ocr 0.1.0",

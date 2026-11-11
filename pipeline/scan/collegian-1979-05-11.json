@@ -7,8 +7,9 @@
     "layout": "sha256:82ccf183ae0bd12336a6f9b6b234f8110e7cbe526a68300060f64f3ae6c2a9b6",
     "ocr": "sha256:12455f3adb7ee152e80440b179e44f4b043e0c6f61c71fa26609c151bbb47be1"
    },
-   "made": "2026-11-06T20:55:43+00:00",
-   "output": "sha256:fc1cc8efa0c093e5926eae69f3c86fb3201e1c1a83e1db33ea73231e8d2c8056",
+   "made": "2026-11-10T21:59:41+00:00",
+   "note": "answer-grid letters re-read (reread-letters)",
+   "output": "sha256:b5150d5cb530082c25c6b05d76a3dcda59c17bfb743b4c8fb8306dafc45058ae",
    "settings": {
     "keep_partial": 0.4,
     "sure_swaps": []
@@ -63,8 +64,9 @@
     "layout": "sha256:4ea194ef9e6dfc5dc39a5e31b2d1e4b89ca3dbe5012be7c8ed79a005d07c0166",
     "ocr": "sha256:d97f75c46b520537b655b4dd2e6e3f29c5584ff1d2e874e51e6f1c3c1468fd5b"
    },
-   "made": "2026-11-06T20:55:53+00:00",
-   "output": "sha256:ba2a52a19b2d4fdbefb3eed35894436300b168bd5e01eaac4a1940edf2cbc680",
+   "made": "2026-11-10T21:59:45+00:00",
+   "note": "answer-grid letters re-read (reread-letters)",
+   "output": "sha256:6a316e2154387150f83e8696eb9b32b4555c7d0018fae7412be636619eb55f16",
    "settings": {
     "keep_partial": 0.4,
     "sure_swaps": []

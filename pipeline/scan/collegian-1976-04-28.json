@@ -7,7 +7,8 @@
     "layout": "sha256:645e26278e7d7f4662df2689da3d3e5729a41359821196e1c679464a391500b4",
     "ocr": "sha256:e8bb938ceabfedcf488988ea07d7e2760df8d8eaa37dbe830064aba19c9ad3b4"
    },
-   "made": "2026-11-06T20:37:03+00:00",
+   "made": "2026-11-10T21:29:08+00:00",
+   "note": "answer-grid letters re-read (reread-letters)",
    "output": "sha256:a8f99a41e6e3a953eb48a69c1954dd8372bfa6e94bd8c1a9ed1e0b3ce9e9a7e4",
    "settings": {
     "keep_partial": 0.4,
@@ -78,8 +79,9 @@
     "layout": "sha256:7888743b975dd0b7c314dd24d00970891c3f68ebc32ac771a4288cff0b1bb6c5",
     "ocr": "sha256:66d8c02246d5139e00eaf2334aff29811458362facabc115112b1212ed2ca8e0"
    },
-   "made": "2026-11-06T20:37:19+00:00",
-   "output": "sha256:3eb930d5e1b8b3cbc641d532d1678fe97cad68e5d05a6c32399d26f46d8be634",
+   "made": "2026-11-10T21:29:15+00:00",
+   "note": "answer-grid letters re-read (reread-letters)",
+   "output": "sha256:394f745d80da1befe61fb137f6e3877d7e9048806ba17f8ab6b44fa707f0c47b",
    "settings": {
     "keep_partial": 0.4,
     "sure_swaps": []

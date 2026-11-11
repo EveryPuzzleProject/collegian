@@ -7,8 +7,9 @@
     "layout": "sha256:9f916ab010f08c7d3e11760966edce4e9e762f78bf6e02df64b478bbaa8e3078",
     "ocr": "sha256:fb845416a2fecd9193bddfc9010c09471c05c35018e62845344cd5ade5616d1b"
    },
-   "made": "2026-11-06T20:55:09+00:00",
-   "output": "sha256:8f9a499bb51565927e06b3efedc579372bc32fa7edca3b8df3ba146910faf91a",
+   "made": "2026-11-10T21:58:29+00:00",
+   "note": "answer-grid letters re-read (reread-letters)",
+   "output": "sha256:5305ed530eb269695464f7ad9e2e94652ea8e20bd6e9071b397e490254273c30",
    "settings": {
     "keep_partial": 0.4,
     "sure_swaps": []
