@@ -51,8 +51,10 @@ No model was called to make this list. The ids alone, comma-separated, for `--pi
 
 ## The second review, once xword-ocr `claude/unruffled-ritchie-9382c7` is merged
 
-The reviewer's fixed instructions then correct a plain printer's typo (an edit, with what was printed
-recorded) and can say Ready. Not run: it spends model tokens, so it is the owner's call.
+The reviewer's fixed instructions then leave a plain printer's typo as printed, propose the correction
+(`typos`: the word printed, the word meant; kept in the ledger record as `proof.review.typos` for the gxd
+export to apply) and can say Ready. The xd that ships stays as printed. Not run: it spends model tokens,
+so it is the owner's call.
 
 From an xword-ocr checkout at the merged main, with this branch merged into the collegian checkout the
 run writes to (`C:/Users/adeja/Projects/collegian-run2-run`), so `editorial.md` and the ids file are there:
@@ -75,4 +77,9 @@ Cost at run2's measured rate (20k tokens a puzzle): 38 x 20k = **about 0.76 M to
 
 What to expect: 7 of the 38 stay Not ready by the rule itself (5 have no crop for the clue, 2 are not plain
 typos; marked above). The other 31 have only typos the crop shows cleanly, though the reviewer may still
-call a few close ("Serious tumors" for EDEMAS, "Midwest region" for PALESTINE).
+call a few close ("Serious tumors" for EDEMAS, "Midwest region" for PALESTINE). In at least 2 of the 38 an
+earlier step had already corrected the print (1977-09-19 D42, 1977-12-15 A26): there the reviewer
+edits the clue back to the print and proposes the correction.
+
+Until blitz's export applies `review.typos` (session `edit-records`), a Ready from this review ships the clue
+as printed, typo included, and the correction waits in the ledger.
