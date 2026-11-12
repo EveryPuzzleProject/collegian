@@ -1,0 +1,112 @@
+Author: Mike Shenk
+Date: 1979-03-13
+Solution: matched by the folder's answers column (pages.tsv: the pairing was made by whoever built the folder, not by the harvest); grids agree
+Solution-Source: https://panewsarchive.psu.edu/lccn/sn85054904/1979-03-14/ed-1/seq-11/
+Source: https://panewsarchive.psu.edu/lccn/sn85054904/1979-03-13/ed-1/seq-11/
+Assembly: hands-off: the harvest's regions, parts linked by assembly (xword-ocr), no person's edits
+Byline: by Mike Shenk
+Feature: Crossword
+Text-Review: AI reviewer (claude-opus-5-5): 7 change(s), listed in the review
+
+
+##PLEAD#ASSAM##
+#TRICIA#NITRIC#
+THEMORNINGAFTER
+REP#SEINING#TAU
+ELAM#DEVES#BEST
+MORAL#LES#DUNES
+OVERALLS#FAN###
+REDSKYATMORNING
+###HEE#MORTIMER
+AMBER#HEN#SEPTA
+DELS#LUNAR#SELF
+AMA#MANTLES#DET
+MORNINGSICKNESS
+#SEANCE#SAYERS#
+##STEER#APSES##
+
+
+A1. Implore ~ PLEAD
+A6. Indian state ~ ASSAM
+A11. Cox nee Nixon ~ TRICIA
+A12. Kind of acid ~ NITRIC
+A14. Bad news to a toper ~ THEMORNINGAFTER
+A17. Congressman ~ REP
+A18. Fishing with a net ~ SEINING
+A19. Sigma follower ~ TAU
+A20. Character actor Jack ~ ELAM
+A22. Dives, in Britain ~ DEVES
+A23. Type of man or seller ~ BEST
+A24. Aesopian ending ~ MORAL
+A26. Bandleader Brown ~ LES
+A27. Seaside slopes ~ DUNES
+A28. Dungarees ~ OVERALLS
+A30. Sports enthusiast ~ FAN
+A31. Bad news to a sailor ~ REDSKYATMORNING
+A36. Haw's predecessor ~ HEE
+A37. Bergen's Snerd ~ MORTIMER
+A38. Traffic-light color ~ AMBER
+A41. Layer ~ HEN
+A42. Nose dividers ~ SEPTA
+A43. Eastern Indians: abbr ~ DELS
+A44. Type of module or rover ~ LUNAR
+A46. Word with centered or hypnosis ~ SELF
+A47. M.D.'s group ~ AMA
+A48. Overcoats ~ MANTLES
+A50. Roundabout route: abbr ~ DET
+A51. Bad news for a mother-to-be ~ MORNINGSICKNESS
+A54. Medium's meeting ~ SEANCE
+A55. Gale of the Bears ~ SAYERS
+A56. Ranch animal ~ STEER
+A57. Cathedral areas ~ APSES
+
+D1. Like a good Boy Scout ~ PREPARED
+D2. Math abbreviation ~ LIM
+D3. Home: combining form ~ ECOS
+D4. Ventilated ~ AIRED
+D5. Girl's form of a man's name ~ DANIELLA
+D6. Oakley and Hall ~ ANNIES
+D7. Omens ~ SIGNS
+D8. Buck ~ STAG
+D9. Sandy's syllable ~ ARF
+D10. Fingerless glove ~ MITTEN
+D11. "- Boat". TV show ~ THELOVE
+D13. Desist ~ CEASE
+D14. Quake ~ TREMOR
+D15. Broker's concern ~ INVESTMENTS
+D16. Ditches ~ RUTS
+D21. Fens ~ MARSHES
+D23. Hefner employees ~ BUNNIES
+D25. L.A. player ~ LAKER
+D27. Blowgun projectiles ~ DARTS
+D29. Soap ingredient ~ LYE
+D30. - better or worse ~ FOR
+D32. Da Vinci work ~ MONALISA
+D33. Obstructors ~ IMPEDERS
+D34. Like some highwire acts ~ NETLESS
+D35. Joins plants ~ GRAFTS
+D38. One of the Cartwrights ~ ADAM
+D39. Reminders ~ MEMOS
+D40. Trumpet blasts ~ BLARES
+D41. Glutton's affliction ~ HUNGER
+D44. Spear ~ LANCE
+D45. News summary ~ RECAP
+D48. Open pit or strip ~ MINE
+D49. "The - the limit" ~ SKYS
+D52. One Cole ~ NAT
+D53. Born, in France ~ NEE
+
+
+Printed with puzzle:
+LISTEN, WHEN YOU'VE HAD ENOUGH, JUST LEAVE WORD WITH MY SEC- RETARY, OKAY?
+GBTuudean
+We're Going To Keep On "Freezing" Until
+
+Assembly flags:
+key paired by the folder's answers column (pages.tsv), not by matching: its black squares agree
+
+OCR review flags:
+D9: number-corrected:6
+
+Text step, unsure:
+L2: generic 'Crossword' heading, no puzzle title; byline given as a value because the line also holds the answers pointer

@@ -7,8 +7,9 @@
     "layout": "sha256:73acb14fa2344985170ec045a038dbee025262b0827766687e7f03e500afbaa2",
     "ocr": "sha256:2c4fc89328c766052c07b4c686d1f99ef0bd2d7b0ddb44a352d8016a19ab5d7c"
    },
-   "made": "2026-11-06T21:05:18+00:00",
-   "output": "sha256:a0f28d76284ed49a3dc50c0dcd0fa41bd15f5d6d88c32b6966fd3fce459d3d3d",
+   "made": "2026-11-10T22:12:02+00:00",
+   "note": "answer-grid letters re-read (reread-letters)",
+   "output": "sha256:db4b98f5eafa11143222f138303dc6ce0c473baea88e8bf9ae9fcd2c0b988230",
    "settings": {
     "keep_partial": 0.4,
     "sure_swaps": []
@@ -64,6 +65,22 @@
    "made": "2026-11-06T21:13:39+00:00",
    "output": "sha256:93356554022c4d15a6746b03a5f8243e9075509549cda98f31be74a909e5ad51",
    "settings": {
+    "only_pointed": true
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "scan:collegian-1981-02-17/0001#key-728c146b42b9ap": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:5d3b56c0393a6d929cbef2d44517b9873c57f01b71b8f655aa0f2333c66b2a84"
+   },
+   "made": "2026-11-10T22:43:03+00:00",
+   "output": "sha256:dbb204b6d7bb0ba84d49d7de43d34271d0dab13e08c24ab87392c211cced22a6",
+   "settings": {
+    "given": true,
     "only_pointed": true
    },
    "stage": "keysearch",

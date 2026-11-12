@@ -1,0 +1,114 @@
+Author: Mike Shenk
+Date: 1979-05-02
+Solution: matched by the folder's answers column (pages.tsv: the pairing was made by whoever built the folder, not by the harvest); grids agree
+Solution-Source: https://panewsarchive.psu.edu/lccn/sn85054904/1979-05-03/ed-1/seq-13/
+Source: https://panewsarchive.psu.edu/lccn/sn85054904/1979-05-02/ed-1/seq-17/
+Assembly: hands-off: the harvest's regions, parts linked by assembly (xword-ocr), no person's edits
+Byline: Crossword by Mike Shenk
+Text-Review: AI reviewer (claude-opus-5-5): 8 change(s), listed in the review
+
+
+EAST#TENOR##HAL
+BEER#AROSE#SEGO
+BRAINTRUST#TART
+#INVITES#OHARAS
+###EXED#DRIFT##
+FILTER#LUNGFISH
+IDI#SETUP#HENCE
+LAVA#DOPED#DEAR
+CHEST#MISER#SPA
+HORSEMAN#LOSSES
+##WOMAN#AISE###
+SLURPS#INVERTS#
+TORT#KIDNEYBEAN
+LASS#OFOUR#INKY
+OFT##FILLS#ATEE
+
+
+A1. The Orient ~ EAST
+A5. Singer, of a sort ~ TENOR
+A10. "2001" computer ~ HAL
+A13. Keg contents ~ BEER
+A14. Stood ~ AROSE
+A15. Lily type ~ SEGO
+A16. FDR advisers ~ BRAINTRUST
+A18. Acerbic ~ TART
+A19. Summons ~ INVITES
+A20. Family of Tara ~ OHARAS
+A22. Crossed out ~ EXED
+A23. Snowy driving hazard ~ DRIFT
+A24. Swimming pool accessory ~ FILTER
+A27. Dipnoan ~ LUNGFISH
+A30. Amin ~ IDI
+A31. Assemble ~ SETUP
+A33. Therefore ~ HENCE
+A34. Etna outpour ~ LAVA
+A36. Drugged ~ DOPED
+A38. Expensive ~ DEAR
+A39. Hope or treasure ~ CHEST
+A41. Silas Marner ~ MISER
+A43. Resort ~ SPA
+A44. "Comes a -": recent movie ~ HORSEMAN
+A46. Forfeitures ~ LOSSES
+A48. "An Unmarried -" ~ WOMAN
+A49. Ease: French ~ AISE
+A50. Drinks noisily ~ SLURPS
+A52. Turns over ~ INVERTS
+A55. Legal wrong ~ TORT
+A56. Haricot ~ KIDNEYBEAN
+A59. Colleen ~ LASS
+A60. "Days - Lives" ~ OFOUR
+A61. Like a printer's apron ~ INKY
+A62. Frequently ~ OFT
+A63. Satiates ~ FILLS
+A64. Suit to - ~ ATEE
+
+D1. Wane ~ EBB
+D2. Air: combining form ~ AERI
+D3. Actor Connery ~ SEAN
+D4. Stand for a hot dish ~ TRIVET
+D5. Shredded ~ TATTERED
+D6. Blundered ~ ERRED
+D7. Entre- ~ NOUS
+D8. Secret grp. of World War II ~ OSS
+D9. Shredded again ~ RETORN
+D10. Vigorous health ~ HEARTINESS
+D11. Taj Mahal locale ~ AGRA
+D12. Scads ~ LOTS
+D15. Supplied with a crew ~ STAFFED
+D17. Vetoes: slang ~ NIXES
+D21. Lofty ~ HIGH
+D23. Fools ~ DUPES
+D24. Steal ~ FILCH
+D25. Pocatello's state ~ IDAHO
+D26. Sausage type ~ LIVERWURST
+D27. Sleuth Arsene ~ LUPIN
+D28. Ending for sea or land ~ SCAPE
+D29. Namesakes of Zeus's wife ~ HERAS
+D32. Man - talk ~ TOMAN
+D35. Classifies ~ ASSORTS
+D37. Conveys ~ DELIVERS
+D40. Therm. reading ~ TEMP
+D42. Robot of the Jetsons ~ ROSEY
+D45. "- the Red Death" ~ MASKOF
+D47. Region of Yugoslavia ~ SERBIA
+D49. Cancel ~ ANNUL
+D50. Normandy town ~ STLO
+D51. Bread unit ~ LOAF
+D52. Matinee star ~ IDOL
+D53. Pup or circus ~ TENT
+D54. Motive ~ SAKE
+D57. "- Were a Rich Man" ~ IFI
+D58. Comic Louis ~ NYE
+
+
+Assembly flags:
+key paired by the folder's answers column (pages.tsv), not by matching: its black squares agree
+
+OCR review flags:
+A39: number-missing
+A62: number-corrected:61
+D6: number-corrected:8, low-ocr-score
+D7: low-ocr-score
+D47: spell:Reglon>Region
+D57: number-missing

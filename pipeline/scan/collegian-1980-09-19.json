@@ -69,6 +69,22 @@
    "version": "keysearch/2"
   }
  },
+ "scan:collegian-1980-09-19/0001#key-1519533d3f6fap": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:36d88017496e0dda1f3a4ad913860e6a8e594cb0ef6f14ecc27cc060cbfad1a0"
+   },
+   "made": "2026-11-10T22:39:00+00:00",
+   "output": "sha256:06ecce040b65e78a1c57df74dc8ff909f1fbd73cc5d8ce10df606817b0c28c96",
+   "settings": {
+    "given": true,
+    "only_pointed": true
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
  "scan:collegian-1980-09-19/0003": {
   "extract": {
    "code": "xword-ocr 0.1.0",

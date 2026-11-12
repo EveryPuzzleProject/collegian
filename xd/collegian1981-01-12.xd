@@ -1,0 +1,122 @@
+Author: Mike Shenk
+Date: 1981-01-12
+Solution: matched by the folder's answers column (pages.tsv: the pairing was made by whoever built the folder, not by the harvest); grids agree
+Solution-Source: https://panewsarchive.psu.edu/lccn/sn85054904/1981-01-13/ed-1/seq-5/
+Source: https://panewsarchive.psu.edu/lccn/sn85054904/1981-01-12/ed-1/seq-8/
+Assembly: hands-off: the harvest's regions, parts linked by assembly (xword-ocr), no person's edits
+Byline: by Mike Shenk
+Text-Review: AI reviewer (claude-opus-5-5): 11 change(s), listed in the review
+
+
+ROTC#CAROM#ROPE
+ANYA#ARENA#EDIT
+GARB#PILOT#MONA
+SNOOPILY#CLERKS
+###OATS#WHIM###
+AVESTA#GRUMBLES
+HEXES#COOPERATE
+ERAT#TORTS#ACHE
+ANCHORAGE#ONTAP
+DETONATE#BACONS
+###UMPS#CASE###
+STAGED#PASTRAMI
+ARCH#OPART#ORES
+FORT#OLIVE#CURL
+EYES#ROLES#KNEE
+
+
+A1. Campus military grp. ~ ROTC
+A5. Bounce off ~ CAROM
+A10. Lasso ~ ROPE
+A14. Writer Seton ~ ANYA
+A15. Sports hall ~ ARENA
+A16. Check copy ~ EDIT
+A17. Attire ~ GARB
+A18. Airline employee ~ PILOT
+A19. –Lisa ~ MONA
+A20. In a nosy manner ~ SNOOPILY
+A22. Department store workers ~ CLERKS
+A24. Mare's meal ~ OATS
+A25. Caprice ~ WHIM
+A26. Zoroastrian sacred books ~ AVESTA
+A29. Mutters discontentedly ~ GRUMBLES
+A33. Evil spells ~ HEXES
+A34. Be helpful ~ COOPERATE
+A35. Part of QED ~ ERAT
+A36. Civil wrongs ~ TORTS
+A37. Soreness ~ ACHE
+A38. Alaskan city ~ ANCHORAGE
+A40. Like beer in many bars ~ ONTAP
+A41. Set off a bomb ~ DETONATE
+A42. Breakfast meats ~ BACONS
+A43. Officiates ~ UMPS
+A44. Attache or brief ~ CASE
+A45. Put on a play ~ STAGED
+A48. Deli offering ~ PASTRAMI
+A52. Foot part ~ ARCH
+A53. Psychedelic paintings ~ OPART
+A55. Mineralogist's concerns ~ ORES
+A56. Dix or Apache ~ FORT
+A57. Popeye's Miss Oyl ~ OLIVE
+A58. Ringlet ~ CURL
+A59. Ogles ~ EYES
+A60. Parts ~ ROLES
+A61. Leg part ~ KNEE
+
+D1. Predecessor of riches ~ RAGS
+D2. –even keel ~ ONAN
+D3. Beginner ~ TYRO
+D4. Carl Sandburg work ~ CABOOSETHOUGHTS
+D5. Per- ~ CAPITA
+D6. Seed coats ~ ARILS
+D7. Depend ~ RELY
+D8. Lennon's widow ~ ONO
+D9. Pairings ~ MATCHUPS
+D10. Carl Sandburg work ~ REMEMBRANCEROCK
+D11. Scent ~ ODOR
+D12. Rosy ~ PINK
+D13. Zeta followers ~ ETAS
+D21. Slices of butter ~ PATS
+D23. Common fertilizer ~ LIME
+D25. Scribed ~ WROTE
+D26. In the future ~ AHEAD
+D27. Nemo's creator ~ VERNE
+D28. Precise ~ EXACT
+D29. Canyon ~ GORGE
+D30. Milk: Prefix ~ LACTO
+D31. Allen of Revolutionary times ~ ETHAN
+D32. Oozes ~ SEEPS
+D34. Paint layers ~ COATS
+D36. Haunted house feature ~ TRAPDOOR
+D39. "Don't Tread –" ~ ONME
+D40. Kiln ~ OAST
+D42. Makes the turkey ~ BASTES
+D44. Serve the turkey ~ CARVE
+D45. Vault ~ SAFE
+D46. Ancient city ~ TROY
+D47. Land unit ~ ACRE
+D48. Bucket ~ PAIL
+D49. Give – for one's money ~ ARUN
+D50. Absolute ~ MERE
+D51. Key ~ ISLE
+D54. Arafat's grp. ~ PLO
+
+
+Assembly flags:
+key paired by the folder's answers column (pages.tsv), not by matching: its black squares agree
+
+OCR review flags:
+A18: spell:Alrline>Airline
+A19: number-missing
+A26: number-corrected:28
+A34: spell:helpfut>helpful
+A52: number-corrected:62
+A55: number-missing
+D6: number-corrected:8
+D30: spell:Preflx>Prefix
+D31: number-missing
+D46: spell:Anclent>Ancient
+
+Text step, unsure:
+title: the large heading above the grid was not read (garbled 'PIOMSSOD'); there may be a title
+A34: the key reads C.R.BRATE for 'Be helpful' (likely COOPERATE); the R in third place doesn't fit, so not changed

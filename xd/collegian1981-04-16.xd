@@ -1,0 +1,119 @@
+Author: Mike Shenk
+Date: 1981-04-16
+Solution: matched by the folder's answers column (pages.tsv: the pairing was made by whoever built the folder, not by the harvest); grids agree
+Solution-Source: https://panewsarchive.psu.edu/lccn/sn85054904/1981-04-17/ed-1/seq-7/
+Source: https://panewsarchive.psu.edu/lccn/sn85054904/1981-04-16/ed-1/seq-10/
+Assembly: hands-off: the harvest's regions, parts linked by assembly (xword-ocr), no person's edits
+Byline: Crossword by Mike Shenk
+Feature: Crossword by Mike Shenk
+Text-Review: AI reviewer (claude-opus-5-5): 16 change(s), listed in the review
+
+
+SHAD#CAST#AWEOF
+IOLA#OMAR#LARVA
+DOOM#LIMO#ASSET
+EDGARLEEMASTERS
+###SEAS#BIKE###
+SMOKER#ROMANTIC
+TON#FELON#NORSE
+ROAR#DOTED#TILL
+ARIES#VASES#TEL
+PERMUTES#FACETS
+###ICAN#TOGA###
+JOHNCROWERANSOM
+ABIDE#TERM#CODA
+MOVES#ELSE#ALES
+BEERS#SLED#NEST
+
+
+A1. Food fish ~ SHAD
+A5. Acting company ~ CAST
+A9. In — (reverent) ~ AWEOF
+A14. City of Kansas ~ IOLA
+A15. Actor Sharif ~ OMAR
+A16. Insect infant ~ LARVA
+A17. Destruction ~ DOOM
+A18. Airport car ~ LIMO
+A19. Plus quality. ~ ASSET
+A20. American poet ~ EDGARLEEMASTERS
+A23. Seven — ~ SEAS
+A24. Cycle ~ BIKE
+A25. Target of many Cancer Society ads ~ SMOKER
+A28. Like some comedies ~ ROMANTIC
+A32. Large weight ~ TON
+A33. Criminal ~ FELON
+A35. Scandinavian ~ NORSE
+A36. MGM's opening sound ~ ROAR
+A38. Worshipped ~ DOTED
+A40. Plough ~ TILL
+A41. Sign of the zodiac ~ ARIES
+A43. Rose holders ~ VASES
+A45. — Aviv ~ TEL
+A46. Changes the arrangement of ~ PERMUTES
+A48. Sapphire surfaces ~ FACETS
+A50. "Yes, — " (Davis bio) ~ ICAN
+A51. "Animal House" garb ~ TOGA
+A52. American poet ~ JOHNCROWERANSOM
+A59. Dwell ~ ABIDE
+A60. Semester ~ TERM
+A61. Musical ending ~ CODA
+A62. Chess turns ~ MOVES
+A63. Other ~ ELSE
+A64. Pub brews ~ ALES
+A65. More pub brews ~ BEERS
+A66. Yukon transport ~ SLED
+A67. Lair ~ NEST
+
+D1. Border ~ SIDE
+D2. Engine cover ~ HOOD
+D3. "Easy as falling off —" ~ ALOG
+D4. Lustrous fabric ~ DAMASK
+D5. Caught ~ COLLARED
+D6. French friends ~ AMIES
+D7. Ditto ~ SAME
+D8. Brass instruments ~ TROMBONES
+D9. Like one pipeline ~ ALASKAN
+D10. First half of a proverb ~ WASTENOT
+D11. Gaelic ~ ERSE
+D12. Done ~ OVER
+D13. Domino, e.g. ~ FATS
+D21. Coral structure ~ REEF
+D22. Goal ~ AIM
+D25. Rein ~ STRAP
+D26. Actor Roger ~ MOORE
+D27. Walking — (ecstatic) ~ ONAIR
+D28. Church rosters ~ ROTAS
+D29. Hackneyed ~ TRITE
+D30. Key ~ ISLET
+D31. Jail units ~ CELLS
+D34. Billets-doux ~ LOVENOTES
+D37. Memo ~ REMINDER
+D39. Misshapen ~ DEFORMED
+D42. Top of a certain ladder ~ SUCCESS
+D44. Great tale ~ SAGA
+D47. Sea dog ~ TAR
+D49. French dance ~ CANCAN
+D51. Concise ~ TERSE
+D52. Window part ~ JAMB
+D53. Hautboy ~ OBOE
+D54. Bee abode ~ HIVE
+D55. Place to wish ~ WELL
+D56. Single ~ SOLE
+D57. Keats output ~ ODES
+D58. Ship pole ~ MAST
+
+
+Assembly flags:
+key paired by the folder's answers column (pages.tsv), not by matching: its black squares agree
+
+OCR review flags:
+A15: number-missing
+A25: number-missing, spell:Soclety>Society
+A28: spell:comedles>comedies
+A32: spell:welght>weight
+A41: spell:zodlac>zodiac
+A51: spell:Anlmal>Animal
+D3: spell:faliing>falling
+D5: number-missing, spell:5ag>sag, low-ocr-score
+D11: number-missing, spell:Gaellc>Gaelic
+D25: number-missing

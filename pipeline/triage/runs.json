@@ -1,15 +1,15 @@
 {
  "_about": "The Collegian harvest's text step runs (xword-ocr harvests/collegian-fit): which one is current (the batch page opens on it, the import reads it) and what each is.",
- "current": "run1",
+ "current": "run2",
  "runs": {
   "run1": {
-   "status": "current",
+   "status": "earlier (replaced on the review site by run2, 2026-11-11)",
    "what": "the first end-to-end slice (2026-11-06): every puzzle the collegian-fit harvest read (797 issues, partial clue lists and poor keys included), through the text step on Opus, proof packets, triage and AI proof review",
    "where": "a copy at blitz-work/collegian-run1-backup (the original is in the xword-ocr worktree goofy-gould-1d1f0b, harvests/collegian-fit)"
   },
   "run2": {
-   "status": "planned",
-   "what": "the second run, with the 2026-11-10 fixes (publication rules, keys paired on the pages the answers column names, the key reader's entry views, scan findings); plan and measurements in xword-ocr docs/collegian-run2.md. Not started: no model stage has run",
+   "status": "current: published 2026-11-11",
+   "what": "the second run (2026-11-10), with that day's fixes (publication rules, keys paired on the pages the answers column names, the key reader's entry views, scan findings), from xword-ocr 422eace, collegian 522febd, blitz 62a6072. 797 puzzles: triage 310 needs work, 487 ready for review; AI proof review on the 158 ready puzzles that pass the ship check (73 Ready, 85 Not ready); status record in pipeline/ship/collegian-1976-81.json. Ship record remade 2026-11-11 on blitz c7eb1be with fixes/ship-rule.json. Reports: manager/2026-11-10.md, manager/2026-11-11.md",
    "where": "blitz-work/runs/collegian (xword-ocr run-root --pubid collegian, EPP_RUNS=.../blitz-work/runs): outside every repo"
   }
  }

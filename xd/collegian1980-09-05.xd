@@ -1,0 +1,117 @@
+Author: Mike Shenk
+Date: 1980-09-05
+Solution: matched by the folder's answers column (pages.tsv: the pairing was made by whoever built the folder, not by the harvest); grids agree
+Solution-Source: https://panewsarchive.psu.edu/lccn/sn85054904/1980-09-08/ed-1/seq-10/
+Source: https://panewsarchive.psu.edu/lccn/sn85054904/1980-09-05/ed-1/seq-8/
+Assembly: hands-off: the harvest's regions, parts linked by assembly (xword-ocr), no person's edits
+Byline: Crossword by Mike Shenk
+Text-Review: AI reviewer (claude-opus-5-5): 12 change(s), listed in the review
+
+
+MASK#STRIP#EAST
+ALEE#CHIDE#IOTA
+STAR#RAVEN#GNAT
+SOLOMONANDSHEBA
+###SILK#TAUT###
+HOWELL#NINEHOLE
+ALONE#FACTS#PEN
+RIME#MIDAS#HEAD
+EVE#PERIL#DENSE
+MANTISSA#CUSSED
+###WEST#OLES###
+DAVIDANDGOLIATH
+ERAS#GAILS#ASHE
+LENT#EMCEE#NEAR
+LASS#SEEDS#SAND
+
+
+A1. Halloween wear ~ MASK
+A5. Sunset or comic follower ~ STRIP
+A10. Sunrise site ~ EAST
+A14. Away from the storm ~ ALEE
+A15. Scold ~ CHIDE
+A16. Greek vowel ~ IOTA
+A17. Capella or Betelgeuse ~ STAR
+A18. Poe's mascot ~ RAVEN
+A19. Tiny insect ~ GNAT
+A20. Biblical love story ~ SOLOMONANDSHEBA
+A23. Fine fabric ~ SILK
+A24. Stretched tight ~ TAUT
+A25. Bell's business partner ~ HOWELL
+A28. Like a small golf course ~ NINEHOLE
+A32. Solitary ~ ALONE
+A33. Bits of data ~ FACTS
+A34. Sty ~ PEN
+A35. Frost ~ RIME
+A36. He had the golden touch ~ MIDAS
+A37. Lettuce unit ~ HEAD
+A38. Night before ~ EVE
+A39. Hazard ~ PERIL
+A40. Tightly packed ~ DENSE
+A41. Logarithm part ~ MANTISSA
+A43. Used four-letter words ~ CUSSED
+A44. Opposite of 10 Across ~ WEST
+A45. Corrida calls ~ OLES
+A46. Biblical enemies ~ DAVIDANDGOLIATH
+A53. Periods ~ ERAS
+A54. Women's names ~ GAILS
+A55. Racketeer Arthur ~ ASHE
+A56. Forty days in Spring ~ LENT
+A57. Game show host ~ EMCEE
+A58. Close at hand ~ NEAR
+A59. Young girl ~ LASS
+A60. Garden beginnings ~ SEEDS
+A61. Seaside grains ~ SAND
+
+D1. Religious service ~ MASS
+D2. Singing voice ~ ALTO
+D3. Trained animal ~ SEAL
+D4. Lantern oil ~ KEROSENE
+D5. Dead Sea find ~ SCROLL
+D6. Express gratitude ~ THANK
+D7. — Ridge, Derby winner of 1972 ~ RIVA
+D8. Type of twins ~ IDENTICAL
+D9. Necklace ornaments ~ PENDANTS
+D10. Kind of note, in music ~ EIGHTH
+D11. Top rating ~ AONE
+D12. Use a dagger ~ STAB
+D13. Slangy farewell ~ TATA
+D21. Non-metric distance unit ~ MILE
+D22. Takes to court ~ SUES
+D25. Sheik's women ~ HAREM
+D26. Baseball's Tony ~ OLIVA
+D27. Females ~ WOMEN
+D28. Gymnast Comaneci ~ NADIA
+D29. Some golf tournaments ~ OPENS
+D30. Tenant's paper ~ LEASE
+D31. Finished ~ ENDED
+D33. John, George or Fred, e.g. ~ FIRSTNAME
+D36. What couriers carry ~ MESSAGES
+D37. Mercenaries of 1776 ~ HESSIANS
+D39. — Piper ~ PIED
+D40. Gunfight ~ DUEL
+D42. Does Chubby's dance ~ TWISTS
+D43. Shuts ~ CLOSES
+D45. Gawked ~ OGLED
+D46. Home of a certain farmer ~ DELL
+D47. Region ~ AREA
+D48. Moving trucks ~ VANS
+D49. Craps need ~ DICE
+D50. On the briny ~ ASEA
+D51. Bigger — life ~ THAN
+D52. Buffalo gathering ~ HERD
+
+
+Assembly flags:
+key paired by the folder's answers column (pages.tsv), not by matching: its black squares agree
+key found on the page the answers column names by a piece of it the grid detector read, placed by the puzzle's black squares (the detector read no answer grid of the puzzle's size there); its letters were read at that place
+
+OCR review flags:
+A1: number-missing
+A34: number-missing, low-ocr-score
+A57: number-missing
+D2: spell:volce>voice
+D37: number-missing
+
+Text step, unsure:
+D51: not on the sheet; blank restored from the answer THAN

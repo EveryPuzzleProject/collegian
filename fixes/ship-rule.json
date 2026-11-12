@@ -1,0 +1,7 @@
+{
+ "_about": "The ship rule's options for the Collegian (blitz ship; blitz design/ship.md). ai_ready: off | both | either (whether an AI's Ready counts as the one Ready when no person has said it; both = the AI proof reviewer's Ready and a passing ship check together: the owner's standing decision, 2026-11-10, written down here 2026-11-11). hold_codes: triage reason codes that hold a puzzle whoever said Ready (as GAMES has them). ignore: review-site accounts whose decisions don't count. owner: the owner's own accounts on the review site, whose decisions override as the owner's do (oops6498 is Alex: confirmed 2026-11-10).",
+ "ai_ready": "both",
+ "hold_codes": ["clue-typed"],
+ "ignore": [],
+ "owner": ["oops6498"]
+}

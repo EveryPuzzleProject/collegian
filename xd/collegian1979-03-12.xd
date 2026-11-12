@@ -1,0 +1,126 @@
+Author: Mike Shenk
+Date: 1979-03-12
+Solution: matched by the folder's answers column (pages.tsv: the pairing was made by whoever built the folder, not by the harvest); grids agree
+Solution-Source: https://panewsarchive.psu.edu/lccn/sn85054904/1979-03-13/ed-1/seq-9/
+Source: https://panewsarchive.psu.edu/lccn/sn85054904/1979-03-12/ed-1/seq-13/
+Assembly: hands-off: the harvest's regions, parts linked by assembly (xword-ocr), no person's edits
+Byline: by Mike Shenk
+Feature: Crossword
+Text-Review: AI reviewer (claude-opus-5-5): 13 change(s), listed in the review
+
+
+ISMS#LIMOS##OAK
+SOUP#ALOUD#PUMA
+OUTOFSORTS#ETON
+#STILETTO#AROSE
+###LARS#FATOF##
+BOOERS#ASCENDED
+INURE#ORTHE#OME
+PITS#LUTES#DOME
+ECO#SETUP#CURED
+DEFECTOR#BURSTS
+##PROOF#AURA###
+BERET#TAFFETAS#
+ERIC#OUTOFSIGHT
+LINT#SNARE#OREO
+LET##TENET#NAST
+
+
+A1. Doctrines ~ ISMS
+A5. Airport vehicles ~ LIMOS
+A10. Wise owl's perch ~ OAK
+A13. - to nuts ~ SOUP
+A14. Orally ~ ALOUD
+A15. Cougar ~ PUMA
+A16. Unwell ~ OUTOFSORTS
+A18. British college ~ ETON
+A19. Dagger ~ STILETTO
+A20. "- by any other name .." ~ AROSE
+A21. Swedish Larry ~ LARS
+A22. The - the land ~ FATOF
+A24. Displeased fans ~ BOOERS
+A27. Climbed ~ ASCENDED
+A30. Harden ~ INURE
+A31. One - other ~ ORTHE
+A32. Cockney abode ~ OME
+A33. Cherry parts ~ PITS
+A34. Mandolins' relatives ~ LUTES
+A35. Mosque feature ~ DOME
+A36. Prefix with type or system ~ ECO
+A37. Assemble ~ SETUP
+A38. Healed ~ CURED
+A39. Party deserter ~ DEFECTOR
+A41. Explodes ~ BURSTS
+A42. Verification ~ PROOF
+A43. Halo ~ AURA
+A44. Paris headgear ~ BERET
+A46. Crisp fabrics ~ TAFFETAS
+A50. "The Red" ~ ERIC
+A51. "-, out of mind" ~ OUTOFSIGHT
+A53. Loose fluff ~ LINT
+A54. Drum or trap ~ SNARE
+A55. Mountain: combining form ~ OREO
+A56. Allow ~ LET
+A57. Belief ~ TENET
+A58. Cartoonist Thomas ~ NAST
+
+D1. Prefix with bar or thermal ~ ISO
+D2. French coins ~ SOUS
+D3. Jeff's partner ~ MUTT
+D4. Race car features ~ SPOILERS
+D5. Beam emitters ~ LASERS
+D6. Small isles ~ ILOTS
+D7. Entertainer Sahl ~ MORT
+D8. Unsynchronized ~ OUTOFSTEP
+D9. Science degrees ~ SDS
+D10. In the open air ~ OUTOFDOORS
+D11. Old Testament book ~ AMOS
+D12. Orson Welles role ~ KANE
+D15. Argentinian president ~ PERON
+D17. SOS signal ~ FLARE
+D20. To -: perfectly ~ ATEE
+D23. Teutonic exclamations ~ ACHS
+D24. Man, for example ~ BIPED
+D25. Reserved for future action ~ ONICE
+D26. Like some old books ~ OUTOFPRINT
+D27. Pianist Rubinstein, once ~ ARTUR
+D28. Ant ~ EMMET
+D29. Title papers ~ DEEDS
+D31. Musically off ~ OUTOFTUNE
+D34. Apollo's mother ~ LETO
+D35. Continuance ~ DURATION
+D37. Highlander ~ SCOT
+D38. Remedies ~ CURES
+D40. Assemble ~ ERECT
+D41. Sideboard ~ BUFFET
+D43. Prior ~ AFORE
+D44. Liberty, for one ~ BELL
+D45. Famed canal ~ ERIE
+D47. - impasse ~ ATAN
+D48. City of the Taj Mahal ~ AGRA
+D49. "- a Lady" ~ SHES
+D51. East, in Essen ~ OST
+D52. Child ~ TOT
+
+
+Printed with puzzle:
+T DON'T TRY TO INTIMI- DATE ME, MR.DUKE!
+RONG. BACK THE BATTLE- ELD! CIAO RNOW! LICKIS
+ATTENTION
+DOIERIOrE LODS O CDrOLALIOTC
+
+Assembly flags:
+key paired by the folder's answers column (pages.tsv), not by matching: its black squares agree
+
+OCR review flags:
+A16: number-corrected:18
+A37: number-missing
+A42: number-missing
+A43: number-missing
+A50: number-missing
+D17: number-missing
+D25: number-missing
+D40: number-missing
+
+Text step, unsure:
+L2: generic 'Crossword' heading, no puzzle title; byline given as a value because the line also holds the answers pointer

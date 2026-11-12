@@ -1,0 +1,129 @@
+Date: 1980-07-30
+Solution: matched by the folder's answers column (pages.tsv: the pairing was made by whoever built the folder, not by the harvest); grids agree
+Solution-Source: https://panewsarchive.psu.edu/lccn/sn85054904/1980-08-01/ed-1/seq-5/
+Source: https://panewsarchive.psu.edu/lccn/sn85054904/1980-07-30/ed-1/seq-6/
+Assembly: hands-off: the harvest's regions, parts linked by assembly (xword-ocr), no person's edits
+Text-Review: AI reviewer (claude-opus-5-5): 12 change(s), listed in the review
+Author: Mike Shenk
+Byline: by Mike Shenk
+
+
+CHAR#CAPP#YALES
+RACE#AGER#OMEGA
+EMUS#DIRE#UPTON
+DUTCHELMDISEASE
+OPERATE#ACER###
+###ENS#STONEAGE
+CODED#BLOND#LAD
+OPEN#SEERS#BOND
+LES#ROLES#ZIGGY
+ACCREDIT#SIR###
+###ETAT#CANTINA
+THELOSTDUTCHMAN
+RELAY#LORE#DADO
+IRATE#ELSE#AGED
+MANED#SEEN#YORE
+
+
+A1. Burn slightly ~ CHAR
+A5. Creator of the Yokums ~ CAPP
+A9. Elihu and others ~ YALES
+A14. Dash, for example ~ RACE
+A15. Time, for example ~ AGER
+A16. Greek vowel ~ OMEGA
+A17. Flightless birds ~ EMUS
+A18. Dreaded ~ DIRE
+A19. Author Sinclair ~ UPTON
+A20. Tree ailment ~ DUTCHELMDISEASE
+A23. Do surgeon's work ~ OPERATE
+A24. Maple genus ~ ACER
+A25. Half-ems ~ ENS
+A26. Period of prehistory ~ STONEAGE
+A30. Like some messages ~ CODED
+A33. Platinum or strawberry ~ BLOND
+A34. Young boy ~ LAD
+A35. Kind of house or shop ~ OPEN
+A36. Sorceresses ~ SEERS
+A37. Agent 007 ~ BOND
+A38. "— Miserables" ~ LES
+A39. Parts ~ ROLES
+A40. Comic strip loser ~ ZIGGY
+A41. Declare reputable ~ ACCREDIT
+A43. Alec Guinness, for example ~ SIR
+A44. French state ~ ETAT
+A45. Night club ~ CANTINA
+A49. Famed mine ~ THELOSTDUTCHMAN
+A53. Example of 14 Across ~ RELAY
+A54. Folk history ~ LORE
+A55. Column pedestal ~ DADO
+A56. Furious ~ IRATE
+A57. Other ~ ELSE
+A58. Ancient ~ AGED
+A59. Like a lion ~ MANED
+A60. Viewed ~ SEEN
+A61. Olden days ~ YORE
+
+D1. Belief ~ CREDO
+D2. Overact ~ HAMUP
+D3. Not obtuse ~ ACUTE
+D4. Show a movie again ~ RESCREEN
+D5. West Pointers ~ CADETS
+D6. Like an acrobat ~ AGILE
+D7. Beauty shop job ~ PERM
+D8. Stalkers ~ PREDATORS
+D9. "— Me": Sam Cook words ~ YOUSEND
+D10. Current unit ~ AMPERE
+D11. "— Smile Be Your Umbrella" ~ LETA
+D12. Sometime inflated things ~ EGOS
+D13. Of sound mind ~ SANE
+D21. Poker round ~ HAND
+D22. Church images ~ ICONS
+D26. Weather phenomenon ~ SLEET
+D27. Sleep like — ~ ALOG
+D28. The Sharks or the Jets ~ GANG
+D29. Whirlpool ~ EDDY
+D30. Soft drink ~ COLA
+D31. Mideast cartel ~ OPEC
+D32. Going down: abbr ~ DESC
+D33. Disparages ~ BELITTLES
+D36. Fountain orders ~ SODAS
+D37. Anniversary ~ BIRTHDAY
+D39. Played with anew ~ RETOYED
+D40. Metallic element ~ ZINC
+D42. Tell a tale ~ RELATE
+D43. Fancy fabric ~ SATEEN
+D45. Utter a four-letter word ~ CURSE
+D46. Adult insect ~ IMAGO
+D47. Head of the Raiders ~ NADER
+D48. Cathode's partner ~ ANODE
+D49. Slender ~ TRIM
+D50. Zeus's spouse ~ HERA
+D51. Splashiness ~ ELAN
+D52. Deal out ~ DOLE
+
+
+Printed with puzzle:
+The Daily Collegian Wednesday, July 30, 1980—11 PIoMSSon by Mike Shenk Answers in Friday's Collegian classifieds.
+RAVEL ICY
+190 United Feature Syndicate, Inc.
+GENT
+OH, HELL; THEY WON'T BOTHER YOU. YOU'RE PRESS.
+BTindeau ORGEF IT, MAN. ONE OF THESE G-HEADS SPEAK MERICAN ANY-
+
+Assembly flags:
+key paired by the folder's answers column (pages.tsv), not by matching: its black squares agree
+
+OCR review flags:
+A9: number-corrected:6
+A16: number-corrected:18
+A26: number-corrected:28
+A36: number-corrected:38
+A38: number-missing
+A43: number-missing
+A53: number-missing
+D2: number-corrected:23
+D3: number-missing
+D32: spell:Golng>Going
+
+Text step, unsure:
+byline: L1 runs the page header, the 'Crossword' logo and the byline together; byline given as a value
