@@ -1,0 +1,121 @@
+Author: Mike Shenk
+Date: 1979-03-09
+Solution: matched by the folder's answers column (pages.tsv: the pairing was made by whoever built the folder, not by the harvest); grids agree
+Solution-Source: https://panewsarchive.psu.edu/lccn/sn85054904/1979-03-12/ed-1/seq-11/
+Source: https://panewsarchive.psu.edu/lccn/sn85054904/1979-03-09/ed-1/seq-19/
+Assembly: hands-off: the harvest's regions, parts linked by assembly (xword-ocr), no person's edits
+Byline: by Mike Shenk
+Feature: Crossword
+Text-Review: AI reviewer (claude-opus-5-5): 14 change(s), listed in the review
+
+
+WAGS##DEER##DON
+EPICS#AMIE#PANE
+BELOW#FIGS#ALTO
+STATEOFTHEUNION
+###INTO#TEND###
+LIMA#ADD#SPOILS
+ASA#ARIAS#ARROW
+PENNSYLVANIAAVE
+ERIES#SIDED#TEE
+LEAGUE#DDT#REST
+###ARRA#LEVI###
+MISTERPRESIDENT
+ABIE#ARAB#CELIA
+METS#TOTO#ERECT
+AXE##ANEW##SEES
+
+
+A1. Shows happiness, dog-style ~ WAGS
+A5. Bambi ~ DEER
+A9. Ameche or Adams ~ DON
+A12. Heroic tales ~ EPICS
+A14. Pierre's girlfriend ~ AMIE
+A15. Window part ~ PANE
+A16. Under ~ BELOW
+A17. Fruits ~ FIGS
+A18. Type of horn or singer ~ ALTO
+A19. Address by the Chief Executive ~ STATEOFTHEUNION
+A22. Preposition ~ INTO
+A23. Take care of ~ TEND
+A24. City of Ohio or South America ~ LIMA
+A27. Total ~ ADD
+A29. These go to the victor ~ SPOILS
+A33. Cool - cucumber ~ ASA
+A34. Songs for Sills ~ ARIAS
+A36. Bow's Partner ~ ARROW
+A37. Address of the Chief Executive ~ PENNSYLVANIAAVE
+A40. Relatives of the Hurons ~ ERIES
+A41. Favored one team ~ SIDED
+A42. Palmer's peg ~ TEE
+A43. Part of NHL ~ LEAGUE
+A45. Insecticide ~ DDT
+A46. Type of area, stop or rooms ~ REST
+A47. Irish exclamation ~ ARRA
+A49. A Strauss ~ LEVI
+A51. Address for the Chief Excutive ~ MISTERPRESIDENT
+A58. He loved Rose ~ ABIE
+A59. Man of Mecca ~ ARAB
+A60. Girl's name ~ CELIA
+A61. Shea sluggers ~ METS
+A62. Famous dog of 1939 ~ TOTO
+A63. Put up a statue ~ ERECT
+A64. Borden's weapon ~ AXE
+A65. Afresh ~ ANEW
+A66. Pictures ~ SEES
+
+D1. Arachnid's abodes ~ WEBS
+D2. Egyptian goddess ~ APET
+D3. Western "monster" ~ GILA
+D4. Nova - ~ SCOTIA
+D5. Yellow flowers ~ DAFFODILS
+D6. Give off ~ EMIT
+D7. Number of pints per gallon ~ EIGHT
+D8. Watches reruns ~ RESEES
+D9. Famed surrealist ~ DALI
+D10. Aware of ~ ONTO
+D11. Light gas ~ NEON
+D13. Swedish man's name ~ SWEN
+D15. Opener of a famous box ~ PANDORA
+D20. Eared seal ~ OTARY
+D21. Outstanding, as a bill ~ UNPAID
+D24. Place for a carnation ~ LAPEL
+D25. Rhone tributary ~ ISERE
+D26. Craze ~ MANIA
+D28. Susskind and Frost ~ DAVID
+D30. Infuriated ~ IRATE
+D31. "- Labour's Lost" ~ LOVES
+D32. Kind of potato or pea ~ SWEET
+D34. Guarantee ~ ASSURE
+D35. Feature of equine gear ~ SADDLEBOW
+D38. Annuls ~ NEGATES
+D39. Greek musical notes ~ NETES
+D44. Printer's blunders ~ ERRATA
+D46. Pony Express men ~ RIDERS
+D48. Cook's wear ~ APRON
+D50. Virtue's counterpart ~ VICE
+D51. Doll's cry ~ MAMA
+D52. Wild goat ~ IBEX
+D53. Locale ~ SITE
+D54. Score ~ RATE
+D55. Robert - ~ ELEE
+D56. Pleasant ~ NICE
+D57. Makes lace ~ TATS
+
+
+Printed with puzzle:
+ACCOONS AcIOSs OUT!
+WILL THE SERGEANT- AT-ARMS PLEASE DIS- ARM THE WITNESS?
+Blue Cross
+Blue Shield
+
+Assembly flags:
+key paired by the folder's answers column (pages.tsv), not by matching: its black squares agree
+
+OCR review flags:
+A17: number-missing
+A40: number-missing
+D31: number-missing
+
+Text step, unsure:
+L2: generic 'Crossword' heading, no puzzle title; byline given as a value because the line also holds the answers pointer

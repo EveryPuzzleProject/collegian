@@ -1,0 +1,118 @@
+Author: Mike Shenk
+Date: 1979-04-09
+Solution: matched by the folder's answers column (pages.tsv: the pairing was made by whoever built the folder, not by the harvest); grids agree
+Solution-Source: https://panewsarchive.psu.edu/lccn/sn85054904/1979-04-11/ed-1/seq-15/
+Source: https://panewsarchive.psu.edu/lccn/sn85054904/1979-04-09/ed-1/seq-13/
+Assembly: hands-off: the harvest's regions, parts linked by assembly (xword-ocr), no person's edits
+Byline: by Mike Shenk
+Text-Review: AI reviewer (claude-opus-5-5): 13 change(s), listed in the review
+
+
+TDS##ABASE#BONE
+HAIG#NOVEL#ATON
+ALLI#GRIME#HIND
+WILDGOOSECHASES
+###EARS#STEM###
+SENORA#STOWAWAY
+CRONY#STERN#IVA
+RIMS#STIRS#SPAR
+ACE#LYRES#BLEND
+PANDORAS#CRUSTS
+###ODIN#CRAM###
+CHASINGRAINBOWS
+LIMA#GEARS#EXIT
+OLEG#ESTOP#RENO
+DONE#STIMY##NEW
+
+
+A1. Scores by O.J. ~ TDS
+A4. Humble ~ ABASE
+A9. Radius, for example ~ BONE
+A13. NATO commander Alexander ~ HAIG
+A15. Michener product ~ NOVEL
+A16. Like — of bricks ~ ATON
+A17. "— ever need is you" ~ ALLI
+A18. Filth ~ GRIME
+A19. Roe ~ HIND
+A20. Futile pursuits ~ WILDGOOSECHASES
+A23. "I'm all —" ~ EARS
+A24. Watch feature ~ STEM
+A25. Madrid Mrs. ~ SENORA
+A28. Unpaid passenger ~ STOWAWAY
+A32. Chum ~ CRONY
+A33. Austere ~ STERN
+A34. Marsh elder ~ IVA
+A35. Basketball hoops ~ RIMS
+A36. Swizzles ~ STIRS
+A37. Shadowbox ~ SPAR
+A38. Star pilot ~ ACE
+A39. Harp ancestors ~ LYRES
+A40. Hodgepodge ~ BLEND
+A41. — Box: container of evils ~ PANDORAS
+A43. Shells ~ CRUSTS
+A44. Norse god ~ ODIN
+A45. Study on test eve ~ CRAM
+A46. Engaging in a futile pursuit ~ CHASINGRAINBOWS
+A53. Bean ~ LIMA
+A54. Cogged wheels ~ GEARS
+A55. Stage direction ~ EXIT
+A56. Designer Cassini ~ OLEG
+A57. Bar legally ~ ESTOP
+A58. "Separation City" ~ RENO
+A59. Completed ~ DONE
+A60. Frustrate: variant ~ STIMY
+A61. Fresh ~ NEW
+
+D1. Deice ~ THAW
+D2. Painter of "Persistence of Memory" ~ DALI
+D3. Window feature ~ SILL
+D4. Woolly goat ~ ANGORA
+D5. Julius of the PGA ~ BOROS
+D6. Rara — ~ AVIS
+D7. Terms ~ SEMESTERS
+D8. Members of a certain college ~ ELECTORS
+D9. — Islands: Nassau's group ~ BAHAMA
+D10. Elisha of the elevator ~ OTIS
+D11. Zero ~ NONE
+D12. Football players ~ ENDS
+D14. Bible-giving group ~ GIDEONS
+D21. Neighbor of Chicago ~ GARY
+D22. Used an axe ~ HEWN
+D25. Remnant ~ SCRAP
+D26. Poetess Jong ~ ERICA
+D27. Name: Latin ~ NOMEN
+D28. Piggeries ~ STIES
+D29. Sponges ~ WIPES
+D30. — garde ~ AVANT
+D31. Lawns ~ YARDS
+D33. Least normal ~ STRANGEST
+D36. Needles ~ SYRINGES
+D37. Doze ~ SLUMBER
+D39. Where Napoleon won in 1796 ~ LODI
+D40. Grain husks ~ BRAN
+D42. Nurse's concern ~ DOSAGE
+D43. Like celery, for instance ~ CRISPY
+D45. Rebound ~ CAROM
+D46. Dull person ~ CLOD
+D47. Hawaiian port ~ HILO
+D48. Verily ~ AMEN
+D49. Indian weight ~ RATI
+D50. Beasts of burden ~ OXEN
+D51. Port, for example ~ WINE
+D52. Stash ~ STOW
+
+
+Assembly flags:
+key paired by the folder's answers column (pages.tsv), not by matching: its black squares agree
+key printed in another issue (named by the answers column)
+
+OCR review flags:
+A28: spell:Unpald>Unpaid
+D14: spell:glving>giving
+D47: spell:Hawailan>Hawaiian
+D48: spell:Verlly>Verify
+D49: spell:welght>weight
+
+Text step, unsure:
+values.byline: L2 runs the banner, byline and answers notice together; the byline alone is 'by Mike Shenk'
+D6: printed 'Rara—' with no space; I wrote 'Rara —'

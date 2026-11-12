@@ -1,0 +1,121 @@
+Author: Mike Shenk
+Date: 1979-04-05
+Byline: by Mike Shenk
+Solution: matched by the folder's answers column (pages.tsv: the pairing was made by whoever built the folder, not by the harvest); grids agree
+Solution-Source: https://panewsarchive.psu.edu/lccn/sn85054904/1979-04-06/ed-1/seq-15/
+Source: https://panewsarchive.psu.edu/lccn/sn85054904/1979-04-05/ed-1/seq-11/
+Assembly: hands-off: the harvest's regions, parts linked by assembly (xword-ocr), no person's edits
+Text-Review: AI reviewer (claude-opus-5-5): 16 change(s), listed in the review
+
+
+ASS###ACH###ASH
+MITT#AVAIL#AGIO
+OLEO#DENSE#ZERO
+STROLL###AMUSED
+###MAID#SCAR###
+ITMAYBETHOSEWHO
+LOANS#MARCH#HOD
+INDY#BATIK#SOLI
+ATA#LINEN#AIDES
+DOMOSTDREAMMOST
+###HATS#SLAP###
+PIRATE###INLOVE
+OVER#RHODE#EVIL
+LANA#SEDAN#RANK
+END###MEN###LEE
+
+
+A1. Beast of burden ~ ASS
+A4. "—, du lieber!" ~ ACH
+A7. — Wednesday ~ ASH
+A10. Gear for Berra ~ MITT
+A12. Benefit ~ AVAIL
+A14. Exchange rate ~ AGIO
+A15. Butter alternative ~ OLEO
+A16. Thickset ~ DENSE
+A17. Cipher ~ ZERO
+A18. Promenade ~ STROLL
+A20. Tickled one's fancy ~ AMUSED
+A22. Hazel, for example ~ MAID
+A24. Cicatrix ~ SCAR
+A25. First part of a quote ~ ITMAYBETHOSEWHO
+A32. Bank deals ~ LOANS
+A33. Sousa subject ~ MARCH
+A34. Brick carrier ~ HOD
+A35. — 500 ~ INDY
+A36. Fabric art ~ BATIK
+A37. Arias ~ SOLI
+A38. — standstill ~ ATA
+A39. Flax product ~ LINEN
+A40. Right-hand men ~ AIDES
+A41. Conclusion of the quote ~ DOMOSTDREAMMOST
+A44. Homburg and porkpie ~ HATS
+A45. Kind of shot or stick ~ SLAP
+A46. Laffite, for one ~ PIRATE
+A49. "Smitten" ~ INLOVE
+A53. "— the Rainbow" ~ OVER
+A54. Roger Williams' "Island" ~ RHODE
+A58. Devilish ~ EVIL
+A59. Turner of films ~ LANA
+A60. Kind of car or boat ~ SEDAN
+A61. Colonel or corporal ~ RANK
+A62. Word after tight or split ~ END
+A63. Last ones in the lifeboats ~ MEN
+A64. Majors or Grant ~ LEE
+
+D1. Mouse in "Ben and Me" ~ AMOS
+D2. Fine dirt ~ SILT
+D3. Ending for mob or tip ~ STER
+D4. — Maria ~ AVE
+D5. "— Do": Seabees motto ~ CAN
+D6. Towel inscription ~ HIS
+D7. Ripens ~ AGES
+D8. Forefather ~ SIRE
+D9. Robin of legend ~ HOOD
+D11. "— cooks.." ~ TOOMANY
+D12. Improvise lines ~ ADLIB
+D13. Stephen — author of the quote ~ LEACOCK
+D14. Shade of blue ~ AZURE
+D19. "Wall St. — An Egg": headline of 1929 ~ LAYS
+D21. Livestock feed ~ MASH
+D23. Ultimatums ~ DEMANDS
+D24. Temples ~ SHRINES
+D25. Homer work ~ ILIAD
+D26. Jay Silverheels role ~ TONTO
+D27. Sir's counterpart ~ MADAM
+D28. Spud: slang ~ TATER
+D29. "— you think you are?" ~ WHODO
+D30. Pores ~ HOLES
+D31. Keats or Shelley ~ ODIST
+D36. Mild tonic ~ BITTERS
+D37. Less complex ~ SIMPLER
+D39. Pre-law test: abbr ~ LSAT
+D40. To —: unanimously ~ AMAN
+D42. Family of Tara ~ OHARA
+D43. Foreign ~ ALIEN
+D46. May or barber ~ POLE
+D47. Infamous czar ~ IVAN
+D48. Wrest ~ REND
+D50. Elliptical ~ OVAL
+D51. Ivy or grape ~ VINE
+D52. Actress Sommer ~ ELKE
+D55. Margin ~ HEM
+D56. Product of 31 Down ~ ODE
+D57. Rather or Mudd ~ DAN
+
+
+Assembly flags:
+key paired by the folder's answers column (pages.tsv), not by matching: its black squares agree
+
+OCR review flags:
+A4: number-missing
+A35: number-missing
+A37: spell:Arlas>Arias
+D5: number-missing
+D11: number-missing
+D13: number-missing
+D31: number-missing
+D40: number-missing, low-ocr-score
+
+Text step, unsure:
+D11: the key grid's numbering around row 2 (D11 TOOMANY) doesn't seem to line up with the clue numbers; worth a check of the grid

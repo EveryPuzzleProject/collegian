@@ -1,0 +1,128 @@
+Author: Mike Shenk
+Date: 1979-03-15
+Solution: matched by the folder's answers column (pages.tsv: the pairing was made by whoever built the folder, not by the harvest); grids agree
+Solution-Source: https://panewsarchive.psu.edu/lccn/sn85054904/1979-03-16/ed-1/seq-15/
+Source: https://panewsarchive.psu.edu/lccn/sn85054904/1979-03-15/ed-1/seq-15/
+Assembly: hands-off: the harvest's regions, parts linked by assembly (xword-ocr), no person's edits
+Byline: Crossword by Mike Shenk
+Feature: Crossword
+Text-Review: AI reviewer (claude-opus-5-5): 16 change(s), listed in the review
+
+
+ABET#HALF#GRETA
+LOCH#ALII#REPAY
+LORE#MEER#ATIME
+#PUBLICSERVICE#
+###ROTS#LEER###
+#CRAVE#EIN#EBBS
+SUAVE#SAGES#LUE
+ORDERINTHECOURT
+USO#SLANT#EVENS
+RENO#ORO#INERT#
+###RAVE#EMIR###
+#RAISEDARACKET#
+PILOT#RUNG#IRON
+ATALE#USEE#LISA
+LASER#MUSS#LEST
+
+
+A1. Assist ~ ABET
+A5. Word with court or hearted ~ HALF
+A9. Garbo ~ GRETA
+A14. Home of Nessie ~ LOCH
+A15. Et -: and others ~ ALII
+A16. Settle an old debt ~ REPAY
+A17. Folk learnings ~ LORE
+A18. Mare, to MacDougal ~ MEER
+A19. One at - ~ ATIME
+A20. Start of a tennis match with an audience? ~ PUBLICSERVICE
+A23. Decays ~ ROTS
+A24. Sly glance ~ LEER
+A25. Yearn for ~ CRAVE
+A27. German article ~ EIN
+A28. Declines ~ EBBS
+A32. Urbane ~ SUAVE
+A33. Wise men ~ SAGES
+A35. Sift, in Olde England ~ LUE
+A36. Command to one's doubles partner? ~ ORDERINTHECOURT
+A39. GI's entertainers ~ USO
+A40. Incline ~ SLANT
+A41. 2, 4, 6, etc. ~ EVENS
+A42. Separation city ~ RENO
+A44. Coronado's gold ~ ORO
+A45. Stagnant ~ INERT
+A46. Type of review ~ RAVE
+A48. Afghan title ~ EMIR
+A49. Prepared to serve? ~ RAISEDARACKET
+A54. Helmsman ~ PILOT
+A55. Step of sorts ~ RUNG
+A56. Age or curtain ~ IRON
+A58. "- of Two Cities" ~ ATALE
+A59. One who is exploited ~ USEE
+A60. Mona - ~ LISA
+A61. Holography need ~ LASER
+A62. Make untidy ~ MUSS
+A63. For fear that ~ LEST
+
+D1. Everything ~ ALL
+D2. Comic strip Betty ~ BOOP
+D3. Beige ~ ECRU
+D4. ". . . and the home of —" ~ THEBRAVE
+D5. Descendant of Noah's son ~ HAMITE
+D6. Guinness and Waugh ~ ALECS
+D7. Untruths ~ LIES
+D8. Hearthside glow ~ FIRELIGHT
+D9. Solemn ~ GRAVE
+D10. Give up working ~ RETIRE
+D11. Heroic ~ EPIC
+D12. Gentle ~ TAME
+D13. One vote ~ AYE
+D21. Scoreless tennis players? ~ LOVERS
+D22. Richards of tennis ~ RENEE
+D25. Anathematize ~ CURSE
+D26. Heaviest gas ~ RADON
+D27. ". . . could - fat" ~ EATNO
+D29. More despondent ~ BLUER
+D30. Charred ~ BURNT
+D31. Group of tennis games ~ SETS
+D32. Acerbic ~ SOUR
+D33. Percussion instrument ~ SNAREDRUM
+D34. Picturesque ~ SCENIC
+D37. "- Lucy" ~ ILOVE
+D38. Surplus nuclear weaponry ~ OVERKILL
+D43. Baltimore bird ~ ORIOLE
+D45. Pictures ~ IMAGES
+D47. Fall bloom ~ ASTER
+D48. Sea eagles ~ ERNES
+D49. Beatles "meter maid" ~ RITA
+D50. "Alack's" cousin ~ ALAS
+D51. Bayberry of the West Indies ~ AUSU
+D52. County of Ohio, Pennsylvania or New York ~ ERIE
+D53. Throw ~ TOSS
+D54. Chum ~ PAL
+D57. Slave leader Turner ~ NAT
+
+
+Printed with puzzle:
+RIGHT...
+ANCE
+SORRY, PHRED,THE DEJA VU IS KILLING US.
+VIETNAM
+BTudtan
+IRISH FOLK SOCIAL
+
+Assembly flags:
+key paired by the folder's answers column (pages.tsv), not by matching: its black squares agree
+
+OCR review flags:
+A5: number-missing, spell:5Word>sword
+A58: number-missing
+A59: spell:explolted>exploited
+A60: low-ocr-score
+D11: spell:Herolc>Heroic
+D27: low-ocr-score
+D30: number-missing
+D49: spell:Bealles>Beatles
+
+Text step, unsure:
+L2: generic 'Crossword' heading, no puzzle title (tennis theme unnamed)

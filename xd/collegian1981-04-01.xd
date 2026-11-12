@@ -1,0 +1,130 @@
+Author: Mike Shenk
+Date: 1981-04-01
+Solution: matched by the folder's answers column (pages.tsv: the pairing was made by whoever built the folder, not by the harvest); grids agree
+Solution-Source: https://panewsarchive.psu.edu/lccn/sn85054904/1981-04-03/ed-1/seq-7/
+Source: https://panewsarchive.psu.edu/lccn/sn85054904/1981-04-01/ed-1/seq-9/
+Assembly: hands-off: the harvest's regions, parts linked by assembly (xword-ocr), no person's edits
+Byline: Crossword by Mike Shenk
+Feature: Crossword by Mike Shenk
+Text-Review: AI reviewer (claude-opus-5-5): 18 change(s), listed in the review
+
+
+APRIL#FOOLS#DAY
+CAINE#ANNUL#ADE
+ENOLA#IMAGE#NEA
+###IVORY##EATER
+RESEEDS#PEPPERS
+AROUSE#FATSO###
+INTO##ERATO#CAM
+LETFOLLYRUNFREE
+SSE#VALES##RAGS
+###NEVER#SCOTIA
+VETERAN#LIONESS
+OMITS##BURNT###
+CID#TIBET#TIARA
+ALE#ERASE#REGAL
+LYS#PARTS#AROMA
+
+
+A1. March follower ~ APRIL
+A6. Kind of gold or cap ~ FOOLS
+A11. Time period ~ DAY
+A14. Actor Michael ~ CAINE
+A15. Negate ~ ANNUL
+A16. Summer sip ~ ADE
+A17. — Gay (famed bomber) ~ ENOLA
+A18. Icon ~ IMAGE
+A19. Teacher's org. ~ NEA
+A20. Kind of tower ~ IVORY
+A22. Diner ~ EATER
+A24. Plants a second crop ~ RESEEDS
+A27. Garden vegetables ~ PEPPERS
+A29. Waken ~ AROUSE
+A30. Nasty nickname for a portly person ~ FATSO
+A31. Preposition of division ~ INTO
+A32. Sister of Terpsichore ~ ERATO
+A33. Rotating machine part ~ CAM
+A36. Motto for today ~ LETFOLLYRUNFREE
+A40. Compass pt. ~ SSE
+A41. Low-lying tracts ~ VALES
+A42. Counterpart of riches ~ RAGS
+A43. "Not on your life!" ~ NEVER
+A44. Nova ~ SCOTIA
+A46. VFW member ~ VETERAN
+A49. Elsa, for one ~ LIONESS
+A50. Leaves out ~ OMITS
+A51. Singed ~ BURNT
+A52. El — ~ CID
+A53. Lama's land ~ TIBET
+A56. Crown ~ TIARA
+A60. Pub quaff ~ ALE
+A61. Expunge ~ ERASE
+A62. Kingly ~ REGAL
+A63. Fleur de — ~ LYS
+A64. Pieces ~ PARTS
+A65. Scent ~ AROMA
+
+D1. Top card ~ ACE
+D2. Bad review ~ PAN
+D3. Resort city ~ RIO
+D4. As a substitute ~ INLIEUOF
+D5. Foliage ~ LEAVES
+D6. Carnivals ~ FAIRS
+D7. "You can count — cooperation" ~ ONMY
+D8. Three — match ~ ONA
+D9. Carry around ~ LUG
+D10. Thinks about overnight ~ SLEEPSON
+D11. Inferno author ~ DANTE
+D12. "Do, —, . . ." ~ ADEER
+D13. Time periods ~ YEARS
+D21. Keats work ~ ODE
+D23. Where soldiers pick up mail: Abbr. ~ APO
+D24. Train tracks ~ RAILS
+D25. Sea eagles ~ ERNES
+D26. Would boil: German ~ SOTTE
+D27. TV's Jack et al. ~ PAARS
+D28. Some of Caesar's last words ~ ETTU
+D30. Broilers's relative ~ FRYER
+D32. Actress Burstyn ~ ELLEN
+D33. Box ~ CRATE
+D34. Protection ~ AEGIS
+D35. Plateaus ~ MESAS
+D37. Go beyond one's authority ~ OVERSTEP
+D38. Mt. St. Helen's output ~ LAVA
+D39. "Space," to Kirk ~ FRONTIER
+D43. Trawl ~ NET
+D44. Knight ~ SIR
+D45. Against ~ CONTRA
+D46. Spoken ~ VOCAL
+D47. One of the Brontes ~ EMILY
+D48. Sea washes ~ TIDES
+D49. Stringed instruments ~ LUTES
+D51. Defeat ~ BEST
+D54. A Gershwin ~ IRA
+D55. Prohibit ~ BAR
+D57. Past ~ AGO
+D58. Aries ~ RAM
+D59. Chicken — king ~ ALA
+
+
+Printed with puzzle:
+ME THAT NG IN SELLING OPCORN! OPCORN!
+ME,TOO. I'M TUSTGLADIT OIDN'T HAPPEN VHILE I WAS ORIVING./
+BENCHMARKREALTYOFFERS
+
+Assembly flags:
+key paired by the folder's answers column (pages.tsv), not by matching: its black squares agree
+key printed in another issue (named by the answers column)
+
+OCR review flags:
+A61: number-missing
+A64: spell:Pleces>Pieces
+D4: number-missing, low-ocr-score
+D5: spell:Follage>Foliage
+D11: spell:Infern>Intern
+D23: number-missing, spell:soldlers>soldiers
+D24: spell:Traln>Train
+D37: number-missing
+
+Text step, unsure:
+A17: not shown on the sheet; blank restored from the answer ENOLA and the OCR's leading space

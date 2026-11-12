@@ -1,0 +1,113 @@
+Author: Mike Shenk
+Date: 1981-04-09
+Solution: matched by the folder's answers column (pages.tsv: the pairing was made by whoever built the folder, not by the harvest); grids agree
+Solution-Source: https://panewsarchive.psu.edu/lccn/sn85054904/1981-04-10/ed-1/seq-7/
+Source: https://panewsarchive.psu.edu/lccn/sn85054904/1981-04-09/ed-1/seq-9/
+Assembly: hands-off: the harvest's regions, parts linked by assembly (xword-ocr), no person's edits
+Byline: Crossword by Mike Shenk
+Feature: Crossword by Mike Shenk
+Text-Review: AI reviewer (claude-opus-5-5): 13 change(s), listed in the review
+
+
+TAP##MATUP##TBS
+ONES#OBESE#SHOT
+ETAT#RULER#PERU
+RECREATE#COATED
+##HOWS#PREACH##
+#JOKES#HUNKERED
+CONES#MOLTS#EVE
+ANTS#PINES#PEEN
+RAH#DOLES#BAHRS
+THEGULAG#RELAY#
+##BIKINI#ATOP##
+ADELES#REVAMPED
+MEAD#HALVE#AIDA
+INCA#ERIAN#REND
+NTH##STENS##SAO
+
+
+A1. Keg faucet ~ TAP
+A4. Become caked together ~ MATUP
+A9. Recipe abbr. ~ TBS
+A12. Singletons ~ ONES
+A14. Rotund ~ OBESE
+A15. Olympics projectile ~ SHOT
+A16. Coup d' — ~ ETAT
+A17. Monarch ~ RULER
+A18. Llama's home ~ PERU
+A19. Bring to life again ~ RECREATE
+A21. Covered ~ COATED
+A23. "— tricks?" ~ HOWS
+A24. Give the sermon ~ PREACH
+A26. One-liners ~ JOKES
+A27. Crouched (down) ~ HUNKERED
+A30. Ice cream holders ~ CONES
+A31. Sheds feathers ~ MOLTS
+A32. Night before ~ EVE
+A33. Pismires ~ ANTS
+A34. Scotch and sugar ~ PINES
+A35. Hammer part ~ PEEN
+A36. Cheer ~ RAH
+A37. Distributes ~ DOLES
+A38. Kickers Matt and Chris ~ BAHRS
+A39. "— Archipelago" ~ THEGULAG
+A41. Race type ~ RELAY
+A42. Beach wear ~ BIKINI
+A43. On the summit ~ ATOP
+A44. Astaire and namesakes ~ ADELES
+A46. Renovated ~ REVAMPED
+A50. Anthropologist Margaret ~ MEAD
+A51. Cut in two ~ HALVE
+A53. Noted opera ~ AIDA
+A54. Indian of 18-Across ~ INCA
+A55. Of a Great Lake ~ ERIAN
+A56. Cleave ~ REND
+A57. Certain degree ~ NTH
+A58. British carbines ~ STENS
+A59. — Paulo ~ SAO
+
+D1. Rule-follower ~ TOER
+D2. Kitty feeder ~ ANTE
+D3. "No, No, Nanette" song ~ PEACHONTHEBEACH
+D4. Swamp ~ MORASS
+D5. Border on ~ ABUT
+D6. "No, No, Nanette" song ~ TELEPHONEGIRLIE
+D7. Employ ~ USE
+D8. Certain fractions ~ PERCENTS
+D9. "No, No, Nanette" song ~ THETHREEHAPPIES
+D10. Drill ~ BORE
+D11. Wall board ~ STUD
+D13. Golfer's tally ~ STROKES
+D15. "The Final Frontier" ~ SPACE
+D20. Shearhog shes ~ EWES
+D22. Mighty trees ~ OAKS
+D25. Occupies the throne ~ RULES
+D26. Name associated with whales ~ JONAH
+D28. Each ~ EVERY
+D29. Lairs ~ DENS
+D30. Vendor's vehicle ~ CART
+D31. City of Italy ~ MILAN
+D34. Shines ~ POLISHES
+D35. Noted observatory ~ PALOMAR
+D37. Wayne's nickname ~ DUKE
+D38. Greek letter ~ BETA
+D40. Comedienne Radner ~ GILDA
+D41. Black birds ~ RAVENS
+D44. Ugandan despot ~ AMIN
+D45. Impression ~ DENT
+D47. Welsh "John" ~ EVAN
+D48. Ferber or Millay ~ EDNA
+D49. Wall section ~ DADO
+D52. Museum fill ~ ART
+
+
+Assembly flags:
+key paired by the folder's answers column (pages.tsv), not by matching: its black squares agree
+
+OCR review flags:
+A54: number-missing
+A59: number-missing, low-ocr-score
+D25: spell:Occuples>Occupies
+
+Text step, unsure:
+A16: 'Coup d'' may have a printed blank after it; the sheet doesn't show this clue

@@ -1,0 +1,131 @@
+Author: Mike Shenk
+Date: 1978-09-20
+Solution: matched by the folder's answers column (pages.tsv: the pairing was made by whoever built the folder, not by the harvest); grids agree
+Solution-Source: https://panewsarchive.psu.edu/lccn/sn85054904/1978-09-21/ed-1/seq-14/
+Source: https://panewsarchive.psu.edu/lccn/sn85054904/1978-09-20/ed-1/seq-5/
+Assembly: hands-off: the harvest's regions, parts linked by assembly (xword-ocr), no person's edits
+Byline: Crossword by Mike Shenk
+Text-Review: AI reviewer (claude-opus-5-5): 44 change(s), listed in the review
+
+
+SAPHEADS#THISBE
+ERRANTRY#OATERS
+QUESTIONSTHEPOP
+UND#EMOTION#TIO
+EDAM#EPODE#BALU
+LETUS#INE#PETES
+SLEEPILY#COLERE
+###ZANY#HULA###
+SWAZIS#BORABORA
+LEDIN#RAM#CONAN
+EARN#AIRED#REDD
+EDO#ASTORIA#TIE
+POPSTHEQUESTION
+ORIOLE#UNTERMED
+NENNEN#ESSAYERS
+
+
+A1. Simpletons ~ SAPHEADS
+A9. Beloved of Pyramus ~ THISBE
+A15. Chivalry ~ ERRANTRY
+A16. Westerns: slang ~ OATERS
+A17. Asks the father for his daughter's hand ~ QUESTIONSTHEPOP
+A19. Sturm -- Drang ~ UND
+A20. Happiness or sorrow ~ EMOTION
+A21. Uncle, in Acapulco ~ TIO
+A22. Dutch Cheese ~ EDAM
+A24. Lyric poem ~ EPODE
+A25. Wildcat of Sumatra ~ BALU
+A26. "-- pray" ~ LETUS
+A28. Chemical ending ~ INE
+A29. "For -- sake" ~ PETES
+A30. In a drowsy manner ~ SLEEPILY
+A32. Anger, in Alsace ~ COLERE
+A33. Ludicrous ~ ZANY
+A34. Hawaiian dance ~ HULA
+A35. Bantu tribesmen ~ SWAZIS
+A38. Repetitive Alpine wind ~ BORABORA
+A42. Ushered into ~ LEDIN
+A43. Battering beast ~ RAM
+A44. Doyle's middle name ~ CONAN
+A45. Deserve ~ EARN
+A46. Broadcast ~ AIRED
+A48. Comedian Foxx ~ REDD
+A49. Old name of Tokyo ~ EDO
+A50. Waldorf -- Hotel ~ ASTORIA
+A52. Winner-less outcome ~ TIE
+A53. Proposes ~ POPSTHEQUESTION
+A56. Baltimore bird ~ ORIOLE
+A57. Having no time limit ~ UNTERMED
+A58. Name: German ~ NENNEN
+A59. Ones who try ~ ESSAYERS
+
+D1. "Jaws II" and others ~ SEQUELS
+D2. Anne --: Annapolis county ~ ARUNDEL
+D3. Precede in time ~ PREDATE
+D4. Owns ~ HAS
+D5. Grafted, in heraldry ~ ENTE
+D6. "Once upon --. ." ~ ATIME
+D7. In a sagging way ~ DROOPILY
+D8. Electronic harmony ~ SYNTONY
+D9. From head -- ~ TOTOE
+D10. Rooster, in Rheinland ~ HAHN
+D11. Mineral suffix ~ ITE
+D12. Divided by a partition ~ SEPTATE
+D13. Gridiron ~ BROILER
+D14. Marry ~ ESPOUSE
+D18. Lateral part ~ SIDE
+D23. Minaret caller ~ MUEZZIN
+D25. Thrash soundly ~ BELABOR
+D27. Iberian land ~ SPAIN
+D29. Warsaw native: variant ~ POLAC
+D31. Incumbents ~ INS
+D32. Mongrel ~ CUR
+D34. Babe Ruth specialties ~ HOMERUNS
+D35. Postpone a decision ~ SLEEPON
+D36. "The only one --": our Katie ~ WEADORE
+D37. Just -- the bucket ~ ADROPIN
+D38. Extravagant architectural style ~ BAROQUE
+D39. Former ~ ONETIME
+D40. Ham broadcaster ~ RADIOER
+D41. Odds -- ~ ANDENDS
+D43. Wedding, for one ~ RITE
+D46. Pale ~ ASHEN
+D47. Weight plans ~ DIETS
+D50. Tamarisk salt tree ~ ATLE
+D51. On the deep ~ ASEA
+D54. Ending for John or Jack ~ SON
+D55. Attempt ~ TRY
+
+
+Printed with puzzle:
+(Answers in tomorrow's Collegian Classifieds)
+
+Assembly flags:
+key paired by the folder's answers column (pages.tsv), not by matching: its black squares agree
+
+OCR review flags:
+A9: number-missing
+A15: number-corrected:18
+A24: spell:Lyrle>Lyric
+A26: number-corrected:28
+A33: number-missing
+A34: spell:Hawallan>Hawaiian
+A46: number-corrected:48
+A48: spell:Comedlan>Comedian
+A50: spell:Waldort>Waldorf
+A56: number-corrected:68
+A58: number-corrected:88
+D2: spell:Annapolls>Annapolis
+D4: low-ocr-score
+D6: number-corrected:8, low-ocr-score
+D8: number-missing
+D29: spell:varlant>variant
+D34: number-missing
+D35: spell:declsion>decision
+D36: number-missing, spell:Katle>Katie
+
+Text step, unsure:
+D6: printed '"Once upon --. ."' as far as the scan shows; the punctuation after the blank is unclear
+D41: read 'Odds.' (ANDENDS); probably printed 'Odds --' with a blank, not on the sheet
+A22: 'Dutch Cheese' with a capital C appears so on the sheet; kept

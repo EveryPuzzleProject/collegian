@@ -1,0 +1,147 @@
+Title: ALL MINE
+Author: Mike Shenk
+Date: 1976-09-24
+Byline: By Mike Shenk
+Solution: matched by the folder's answers column (pages.tsv: the pairing was made by whoever built the folder, not by the harvest); grids agree
+Solution-Source: https://panewsarchive.psu.edu/lccn/sn85054904/1976-09-24/ed-1/seq-3/
+Source: https://panewsarchive.psu.edu/lccn/sn85054904/1976-09-24/ed-1/seq-4/
+Assembly: hands-off: the harvest's regions, parts linked by assembly (xword-ocr), no person's edits
+Text-Review: AI reviewer (claude-opus-5-5): 23 change(s), listed in the review
+
+
+ABIDE#ANEAR#SPELT
+RESED#BORNE#OARER
+ORIBI#EMITS#ANODE
+MYLITTLECHICKADEE
+ALLTOO###EDO#MERS
+####RAGTIME#TE###
+RASP#DERMS#BERATE
+ABORE#NOP#REPILES
+MYFELLOWAMERICANS
+ISADORA#ION#DANSE
+ESSING#CREAM#NEED
+###CS#HASSLES####
+SEAT#NAP###STANCE
+MYFAVORITEMARTIAN
+ARUBA#ATONE#EATIN
+RILLS#SATIN#ALINE
+MELEE#SLEDS#MEDEA
+
+
+A1. Dwell ~ ABIDE
+A6. "Lend me --" ~ ANEAR
+A11. Competed in a certain bee ~ SPELT
+A16. Raged ~ RESED
+A17. Endured ~ BORNE
+A18. Canoe rider ~ OARER
+A19. African antelope ~ ORIBI
+A20. Gives off ~ EMITS
+A21. Certain electrode ~ ANODE
+A22. Words said by W. C. Fields ~ MYLITTLECHICKADEE
+A25. -- much ~ ALLTOO
+A26. Taro root ~ EDO
+A27. Seas: French ~ MERS
+A28. E. L. Doctorow title ~ RAGTIME
+A32. -- deum ~ TE
+A33. File ~ RASP
+A37. Skins ~ DERMS
+A38. Chide ~ BERATE
+A42. "What --!": how dull ~ ABORE
+A44. Alphabetical trio ~ NOP
+A45. Heaps again ~ REPILES
+A46. Lyndon Johnson phrase ~ MYFELLOWAMERICANS
+A49. Dancer Duncan ~ ISADORA
+A50. Charged particle ~ ION
+A51. -- macabre ~ DANSE
+A52. Curving, sometimes ~ ESSING
+A53. -- of the crop ~ CREAM
+A55. Require ~ NEED
+A56. Cesium's symbol ~ CS
+A57. Arguments ~ HASSLES
+A59. Barstool, for example ~ SEAT
+A62. Short snooze ~ NAP
+A63. Posture ~ STANCE
+A68. One-time Bill Bixby TV show ~ MYFAVORITEMARTIAN
+A73. West Indies island ~ ARUBA
+A74. Make amends ~ ATONE
+A75. Dine at home ~ EATIN
+A76. Rivulets ~ RILLS
+A77. Glossy fabric ~ SATIN
+A78. Arrange in a row ~ ALINE
+A79. Affray ~ MELEE
+A80. Winter conveyances ~ SLEDS
+A81. Greek sorceress ~ MEDEA
+
+D1. Scent ~ AROMA
+D2. Aquamarine gem ~ BERYL
+D3. Ails ~ ISILL
+D4. Something owed ~ DEBIT
+D5. Newspaper worker ~ EDITOR
+D6. Early homicide victim ~ ABEL
+D7. Alaska city ~ NOME
+D8. "The Red" ~ ERIC
+D9. National songs ~ ANTHEMS
+D10. See 1 Across ~ RESIDE
+D11. Drench ~ SOAK
+D12. Highway or Conference ~ PANAMERICAN
+D13. Wear away ~ ERODE
+D14. Leather: German ~ LEDER
+D15. Forest parts ~ TREES
+D23. Warty fellow ~ TOAD
+D24. With: prefix ~ CO
+D29. Italian port ~ GENOA
+D30. Wonder: obsolete ~ TROW
+D31. Weakens ~ IMPAIRS
+D32. Lukewarm ~ TEPID
+D33. Chinese shrub ~ RAMIE
+D34. Pit ~ ABYSS
+D35. Couches ~ SOFAS
+D36. Not very surprising ~ PREDICTABLE
+D38. Jujube ~ BER
+D39. Alone: Scottish ~ ALANE
+D40. Past or future -- ~ TENSE
+D41. Curved ~ ESSED
+D43. Esau's father-in-law, and others ~ ELONS
+D45. Of the kidneys ~ RENAL
+D47. Big: abbr ~ LRG
+D48. One of the Three Stooges, and others ~ MOES
+D53. Austin or Boston ~ CAPITAL
+D54. Plateau ~ MESA
+D57. Bother ~ HARASS
+D58. Brook ~ STREAM
+D59. Be too flattering ~ SMARM
+D60. Eagle's nest: variant ~ EYRIE
+D61. "I have -- house": poker talk ~ AFULL
+D62. Bond enemy ~ NO
+D64. "-- of Two Cities" ~ ATALE
+D65. Glossy, as foliage ~ NITID
+D66. Actor Michael ~ CAINE
+D67. Nine: combining form ~ ENNEA
+D69. Flower receptacle ~ VASE
+D70. Carry ~ TOTE
+D71. Lady of Arthur's court ~ ENID
+D72. -- Room ~ MENS
+
+
+Printed with puzzle:
+COMPLIMENTS OF THE PENN STATE BOOKSTORE, McALLISTER BUILDING AND THE GROUND FLOOR OF THE HUB
+
+Assembly flags:
+key paired by the folder's answers column (pages.tsv), not by matching: its black squares agree
+
+OCR review flags:
+A27: spell-hint:Scas>Seas
+A38: number-missing
+A42: number-missing, low-ocr-score
+D12: number-missing
+D53: spell:Ausfin>Austin
+D60: low-ocr-score
+D61: number-missing
+D66: number-missing
+D71: number-missing
+
+Text step, unsure:
+A6: not on the sheet; blank assumed from the '..'
+D8: not on the sheet; read '"The Red"', blank assumed for ERIC
+A32: blank prints as a gap; '--' assumed
+A16: 'Raged' for RESED (all crossings agree); clue not on the sheet, may be misread

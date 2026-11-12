@@ -1,0 +1,108 @@
+Author: Mike Shenk
+Date: 1979-06-20
+Byline: by Mike Shenk
+Solution: matched by the folder's answers column (pages.tsv: the pairing was made by whoever built the folder, not by the harvest); grids agree
+Solution-Source: https://panewsarchive.psu.edu/lccn/sn85054904/1979-06-22/ed-1/seq-8/
+Source: https://panewsarchive.psu.edu/lccn/sn85054904/1979-06-20/ed-1/seq-5/
+Assembly: hands-off: the harvest's regions, parts linked by assembly (xword-ocr), no person's edits
+Feature: Crossword
+Text-Review: AI reviewer (claude-opus-5-5): 6 change(s), listed in the review
+
+
+###SPR##STLO###
+##FLOAT#HEART##
+#BAYOFRAINBOWS#
+ARK#HEIRESS#OKS
+TAIL#REESE#TRIO
+LYRIC#SAT#GOOEY
+###BLUTO#ERRORS
+#OCEANOFSTORMS#
+ALARMS#WEAVE###
+TINAS#BAT#ENDED
+OVAL#CASTE#TIME
+PEP#MASTERS#EMS
+#SEAOFSERENITY#
+##SPREE#SCOTS##
+###TEST##TWO###
+
+
+A1. A season: abbr ~ SPR
+A4. Normandy town ~ STLO
+A8. Parade entrant ~ FLOAT
+A10. Center ~ HEART
+A12. Lunar feature ~ BAYOFRAINBOWS
+A15. Biblical vessel ~ ARK
+A16. Magnate's daughter ~ HEIRESS
+A17. Endorses ~ OKS
+A19. Follow, detective-style ~ TAIL
+A21. Baseball's PeeWee ~ REESE
+A22. Tom, Dick and Harry ~ TRIO
+A23. Songlike ~ LYRIC
+A25. Posed ~ SAT
+A26. Like molasses ~ GOOEY
+A27. Foe of Popeye ~ BLUTO
+A29. "Comedy of -" ~ ERRORS
+A30. Lunar feature ~ OCEANOFSTORMS
+A33. Sirens ~ ALARMS
+A34. Interlace ~ WEAVE
+A35. Louise and Turner ~ TINAS
+A36. Vampire ~ BAT
+A37. Ceased ~ ENDED
+A41. Egg shape ~ OVAL
+A42. Hindu class ~ CASTE
+A44. Symbolically, a man with a scythe. ~ TIME
+A45. Kind of talk or rally ~ PEP
+A46. Word after chess or Dutch ~ MASTERS
+A48. Printer's measures ~ EMS
+A49. Lunar feature ~ SEAOFSERENITY
+A52. Night on the town ~ SPREE
+A53. Edinburgh natives ~ SCOTS
+A54. Exam ~ TEST
+A55. Duo ~ TWO
+
+D1. Cunning ~ SLY
+D2. Milne's bear ~ POOH
+D3. Decathlon's Johnson ~ RAFER
+D4. Most timid ~ SHIEST
+D5. Past or future ~ TENSE
+D6. Chemist's milieus ~ LABS
+D7. Gold, to Coronado ~ ORO
+D8. Mohammedan ascetic ~ FAKIR
+D9. Attempts ~ TRIESTO
+D11. Kind of apartment ~ TWOROOM
+D12. Donkey's sound ~ BRAY
+D13. Desert ~ AREAOFWASTE
+D14. Slalom users ~ SKIERS
+D15. Counterpart of the Pac ~ ATL
+D18. Certain beans ~ SOYS
+D20. Generous ~ LIBERAL
+D22. Downpour ~ TORRENT
+D24. Seafood items ~ CLAMS
+D26. Wooded area ~ GROVE
+D28. Negating prefixes ~ UNS
+D29. Greek letter ~ ETA
+D30. Martini additives ~ OLIVES
+D31. Hors d'oeuvres ~ CANAPES
+D32. Some dogs ~ SETTERS
+D33. On the acme ~ ATOP
+D36. Type of hound ~ BASSET
+D38. Weightwatching regimens ~ DIETS
+D39. TV award ~ EMMY
+D40. - Plaines ~ DES
+D42. Little eateries ~ CAFES
+D43. Construct ~ ERECT
+D46. A larger amount ~ MORE
+D47. Winter white ~ SNOW
+D50. Appropriate ~ APT
+D51. Diminutive Spanish suffix ~ ITO
+
+
+Assembly flags:
+key paired by the folder's answers column (pages.tsv), not by matching: its black squares agree
+
+OCR review flags:
+D7: number-missing
+D51: number-missing, spell:Spanlsh>Spanish
+
+Text step, unsure:
+title: the line proposed as Title is the answers note; only the column banner 'Crossword' is printed, no puzzle name
